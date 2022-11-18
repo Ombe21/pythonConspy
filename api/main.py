@@ -16,6 +16,7 @@ import requests
 import json
 import pandas as pd
 import csv
+import os
 
 
 response_API = requests.get('https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv')
@@ -48,5 +49,8 @@ f.close()
 data = csv_to_json('temp.csv')
 
 print(data)
+os.remove('temp.csv')
+
+
 
 aaa=1
