@@ -6,16 +6,16 @@
 "Audio_TV","608",7.9,7.5,"Barre De Son"
 "Audio_TV","808",0.8,,"Barre De Son"
 "Audio_TV","302",6.4,6.9,"Barre De Son 2"
-"Audio_TV","202",10,14,"Home Cinéma"
-"Audio_TV","209",0.5,0,"Home Cinéma"
-"Audio_TV","402",18.7,1.2,"Home Cinéma"
-"Audio_TV","405",6.6,0.3,"Home Cinéma"
-"Audio_TV","602",1.1,1.1,"Home Cinéma"
-"Audio_TV","1010",59.3,115.6,"Home Cinéma"
+"Audio_TV","202",10,14,"Home CinÃ©ma"
+"Audio_TV","209",0.5,0,"Home CinÃ©ma"
+"Audio_TV","402",18.7,1.2,"Home CinÃ©ma"
+"Audio_TV","405",6.6,0.3,"Home CinÃ©ma"
+"Audio_TV","602",1.1,1.1,"Home CinÃ©ma"
+"Audio_TV","1010",59.3,115.6,"Home CinÃ©ma"
 "Audio_TV","121",,8.3,"Barre De Son"
 "Audio_TV","122",,21,"Barre De Son"
 "Audio_TV","823",,16.3,"Barre De Son"
-"Audio_TV","721",,3.2,"Home Cinéma"
+"Audio_TV","721",,3.2,"Home CinÃ©ma"
 "Bouilloires","108",20.8,,
 "Bouilloires","201",1.6,,
 "Bouilloires","205",82.7,88.7,
@@ -272,207 +272,207 @@
 "Box TV","921",,59.4,
 "Box TV","921",,40.8,
 "Box TV","922",,124,
-"Cafetière_expresso","101",21.2,10.3,
-"Cafetière_expresso","102",29.1,15.7,
-"Cafetière_expresso","104",16.2,,
-"Cafetière_expresso","105",16.6,10,
-"Cafetière_expresso","107",52.1,,
-"Cafetière_expresso","108",31.3,,
-"Cafetière_expresso","109",9.1,,
-"Cafetière_expresso","110",9.2,6.5,
-"Cafetière_expresso","209",6.3,5.1,
-"Cafetière_expresso","305",14.3,20.6,
-"Cafetière_expresso","307",34.1,,
-"Cafetière_expresso","311",25.8,28.2,
-"Cafetière_expresso","406",25.5,24.5,
-"Cafetière_expresso","503",13.6,13.6,
-"Cafetière_expresso","510",6.6,6.2,
-"Cafetière_expresso","602",33.5,34.1,
-"Cafetière_expresso","603",6.4,22.4,
-"Cafetière_expresso","605",37,46.1,
-"Cafetière_expresso","607",33.3,73.6,
-"Cafetière_expresso","701",10.3,,
-"Cafetière_expresso","702",32.1,25.7,
-"Cafetière_expresso","704",17.9,22.1,
-"Cafetière_expresso","801",28.3,22.2,
-"Cafetière_expresso","804",20.7,28.5,
-"Cafetière_expresso","806",56.4,70.5,
-"Cafetière_expresso","807",10.9,14.8,
-"Cafetière_expresso","810",24,,
-"Cafetière_expresso","902",82.1,76.6,
-"Cafetière_expresso","911",19.9,23.3,
-"Cafetière_expresso","912",57,71.3,
-"Cafetière_expresso","1004",24.1,16.2,
-"Cafetière_expresso","1006",16.3,29.9,
-"Cafetière_expresso","1007",4.7,4.7,
-"Cafetière_expresso","1010",8.9,10.1,
-"Cafetière_expresso","303",,14,
-"Cafetière_expresso","705",,5.2,
-"Cafetière_expresso","721",,14.4,
-"Cafetière_expresso","722",,3.9,
-"Cafetière_expresso","820",,14.5,
-"Cafetière_expresso","823",,6,
-"Cafetière_expresso","707",,16.6,
-"Cafetière_filtre","201",19.8,19.8,
-"Cafetière_filtre","202",48.6,59.7,
-"Cafetière_filtre","204",39.2,47.6,
-"Cafetière_filtre","208",34.5,,
-"Cafetière_filtre","209",36.7,31.2,
-"Cafetière_filtre","301",73.7,90.7,
-"Cafetière_filtre","302",10.2,9.9,
-"Cafetière_filtre","306",66.1,67.3,
-"Cafetière_filtre","308",16.2,12,
-"Cafetière_filtre","403",16.8,5.8,
-"Cafetière_filtre","410",58.4,22.8,
-"Cafetière_filtre","706",45.3,37.9,
-"Cafetière_filtre","707",20.6,15.5,
-"Cafetière_filtre","709",3.8,8.6,
-"Cafetière_filtre","1003",42.8,27,
-"Cafetière_filtre","120",,33.4,
-"Cafetière_filtre","326",,12,
-"Cafetière_filtre","508",,4,
-"Cafetière_filtre","620",,66.6,
-"Cafetière_filtre","720",,33.4,
-"Cafetière_filtre","803",,40.9,
-"Cave à vin","304",367.9,,
-"Cave à vin","311",76,79.4,
-"Cave à vin","406",150.4,159.4,
-"Cave à vin","502",159.9,159.8,
-"Cave à vin","607",226.2,193.6,
-"Cave à vin","1010",354,349.4,
-"Cave à vin","720",,505.7,
-"Cave à vin","902",,353.2,
+"CafetiÃ¨re_expresso","101",21.2,10.3,
+"CafetiÃ¨re_expresso","102",29.1,15.7,
+"CafetiÃ¨re_expresso","104",16.2,,
+"CafetiÃ¨re_expresso","105",16.6,10,
+"CafetiÃ¨re_expresso","107",52.1,,
+"CafetiÃ¨re_expresso","108",31.3,,
+"CafetiÃ¨re_expresso","109",9.1,,
+"CafetiÃ¨re_expresso","110",9.2,6.5,
+"CafetiÃ¨re_expresso","209",6.3,5.1,
+"CafetiÃ¨re_expresso","305",14.3,20.6,
+"CafetiÃ¨re_expresso","307",34.1,,
+"CafetiÃ¨re_expresso","311",25.8,28.2,
+"CafetiÃ¨re_expresso","406",25.5,24.5,
+"CafetiÃ¨re_expresso","503",13.6,13.6,
+"CafetiÃ¨re_expresso","510",6.6,6.2,
+"CafetiÃ¨re_expresso","602",33.5,34.1,
+"CafetiÃ¨re_expresso","603",6.4,22.4,
+"CafetiÃ¨re_expresso","605",37,46.1,
+"CafetiÃ¨re_expresso","607",33.3,73.6,
+"CafetiÃ¨re_expresso","701",10.3,,
+"CafetiÃ¨re_expresso","702",32.1,25.7,
+"CafetiÃ¨re_expresso","704",17.9,22.1,
+"CafetiÃ¨re_expresso","801",28.3,22.2,
+"CafetiÃ¨re_expresso","804",20.7,28.5,
+"CafetiÃ¨re_expresso","806",56.4,70.5,
+"CafetiÃ¨re_expresso","807",10.9,14.8,
+"CafetiÃ¨re_expresso","810",24,,
+"CafetiÃ¨re_expresso","902",82.1,76.6,
+"CafetiÃ¨re_expresso","911",19.9,23.3,
+"CafetiÃ¨re_expresso","912",57,71.3,
+"CafetiÃ¨re_expresso","1004",24.1,16.2,
+"CafetiÃ¨re_expresso","1006",16.3,29.9,
+"CafetiÃ¨re_expresso","1007",4.7,4.7,
+"CafetiÃ¨re_expresso","1010",8.9,10.1,
+"CafetiÃ¨re_expresso","303",,14,
+"CafetiÃ¨re_expresso","705",,5.2,
+"CafetiÃ¨re_expresso","721",,14.4,
+"CafetiÃ¨re_expresso","722",,3.9,
+"CafetiÃ¨re_expresso","820",,14.5,
+"CafetiÃ¨re_expresso","823",,6,
+"CafetiÃ¨re_expresso","707",,16.6,
+"CafetiÃ¨re_filtre","201",19.8,19.8,
+"CafetiÃ¨re_filtre","202",48.6,59.7,
+"CafetiÃ¨re_filtre","204",39.2,47.6,
+"CafetiÃ¨re_filtre","208",34.5,,
+"CafetiÃ¨re_filtre","209",36.7,31.2,
+"CafetiÃ¨re_filtre","301",73.7,90.7,
+"CafetiÃ¨re_filtre","302",10.2,9.9,
+"CafetiÃ¨re_filtre","306",66.1,67.3,
+"CafetiÃ¨re_filtre","308",16.2,12,
+"CafetiÃ¨re_filtre","403",16.8,5.8,
+"CafetiÃ¨re_filtre","410",58.4,22.8,
+"CafetiÃ¨re_filtre","706",45.3,37.9,
+"CafetiÃ¨re_filtre","707",20.6,15.5,
+"CafetiÃ¨re_filtre","709",3.8,8.6,
+"CafetiÃ¨re_filtre","1003",42.8,27,
+"CafetiÃ¨re_filtre","120",,33.4,
+"CafetiÃ¨re_filtre","326",,12,
+"CafetiÃ¨re_filtre","508",,4,
+"CafetiÃ¨re_filtre","620",,66.6,
+"CafetiÃ¨re_filtre","720",,33.4,
+"CafetiÃ¨re_filtre","803",,40.9,
+"Cave Ã  vin","304",367.9,,
+"Cave Ã  vin","311",76,79.4,
+"Cave Ã  vin","406",150.4,159.4,
+"Cave Ã  vin","502",159.9,159.8,
+"Cave Ã  vin","607",226.2,193.6,
+"Cave Ã  vin","1010",354,349.4,
+"Cave Ã  vin","720",,505.7,
+"Cave Ã  vin","902",,353.2,
 "Chambre froide","911",1404,1715.9,
 "Chambre froide","1010",0,0,
-"Chaudières","102",175.2,216.8,"GAZ"
-"Chaudières","104",119.1,,"GAZ"
-"Chaudières","107",195,83,"GAZ"
-"Chaudières","109",178.5,,"GAZ"
-"Chaudières","110",49.6,52.9,"GAZ"
-"Chaudières","121",,375.1,"GAZ"
-"Chaudières","122",,81.2,"GAZ"
-"Chaudières","201",96.7,117.4,"FIOUL"
-"Chaudières","206",589.7,478.1,"GAZ"
-"Chaudières","208",50.3,,"GAZ"
-"Chaudières","210",364.5,567.2,"GAZ"
-"Chaudières","305",226.8,175.5,"GAZ"
-"Chaudières","308",62.6,59.4,"GAZ"
-"Chaudières","309",93.6,92.7,"GAZ"
-"Chaudières","311",123.9,168.2,"GAZ"
-"Chaudières","403",273.4,215.5,"GAZ"
-"Chaudières","404",287.3,279.2,"GAZ"
-"Chaudières","420",,37.2,"GAZ"
-"Chaudières","501",81.7,,"GAZ"
-"Chaudières","504",88.9,103.8,"GAZ"
-"Chaudières","505",83.1,85,"GAZ"
-"Chaudières","508",235.4,225.5,"GAZ"
-"Chaudières","509",86.8,,"GAZ"
-"Chaudières","510",72.6,131.2,"FIOUL"
-"Chaudières","601",,128.1,"GAZ"
-"Chaudières","603",347.2,307,"GAZ"
-"Chaudières","604",233.2,196.7,"GAZ"
-"Chaudières","605",126.6,141.3,"GAZ"
-"Chaudières","607",201.5,203.6,"GAZ"
-"Chaudières","608",318.6,403,"GAZ"
-"Chaudières","620",,622.6,"GAZ"
-"Chaudières","701",58.7,,"FIOUL"
-"Chaudières","702",196.2,199,"GAZ"
-"Chaudières","704",371.9,532.8,"FIOUL"
-"Chaudières","708",55.3,,"GAZ"
-"Chaudières","722",,235.5,"FIOUL"
-"Chaudières","802",-901.5,,"COGÉ GAZ"
-"Chaudières","822",,82.3,"GAZ"
-"Chaudières","903",111.9,137.1,"GAZ"
-"Chaudières","904",59.3,,"GAZ"
-"Chaudières","911",903.8,784.8,"FIOUL"
-"Chaudières","1004",613.3,364.9,"FIOUL"
-"Chaudières","1005",63.7,69.7,"GAZ"
-"Chaudières","1008",190.2,,"GAZ"
-"Chaudières","1009",93.4,110.5,"GAZ"
-"Chauffage électrique","101",293.5,272.4,
-"Chauffage électrique","103",1053.6,844.4,
-"Chauffage électrique","105",11.1,5.1,
-"Chauffage électrique","108",1888.9,,
-"Chauffage électrique","109",17.6,,
-"Chauffage électrique","110",150,109.8,
-"Chauffage électrique","120",,211.9,
-"Chauffage électrique","123",,227.8,
-"Chauffage électrique","201",32.7,33.2,
-"Chauffage électrique","202",1884.8,1946.8,
-"Chauffage électrique","203",2486.1,2265.9,
-"Chauffage électrique","204",6128.4,6566.1,
-"Chauffage électrique","206",933.8,616.5,
-"Chauffage électrique","207",5056.5,4830.2,
-"Chauffage électrique","208",16.5,,
-"Chauffage électrique","304",3411.8,,
-"Chauffage électrique","306",3748.8,2039.1,
-"Chauffage électrique","310",3456.4,4302.9,
-"Chauffage électrique","320",,8,
-"Chauffage électrique","326",,3.8,
-"Chauffage électrique","401",936.2,,
-"Chauffage électrique","402",2001.4,1336.5,
-"Chauffage électrique","405",2898.2,89.9,
-"Chauffage électrique","407",1465.5,863.3,
-"Chauffage électrique","408",985.9,,
-"Chauffage électrique","409",968,580.2,
-"Chauffage électrique","410",4992.9,5763.2,
-"Chauffage électrique","420",,979.4,
-"Chauffage électrique","421",,38.1,
-"Chauffage électrique","502",5315.7,5795.2,
-"Chauffage électrique","503",505.7,336.9,
-"Chauffage électrique","504",239.7,33.6,
-"Chauffage électrique","505",2179.4,798,
-"Chauffage électrique","506",288.1,336.7,
-"Chauffage électrique","508",360.3,19.3,
-"Chauffage électrique","601",,399.6,
-"Chauffage électrique","604",60.2,59.1,
-"Chauffage électrique","605",102,412.9,
-"Chauffage électrique","606",60.8,9.8,
-"Chauffage électrique","607",762.1,993.9,
-"Chauffage électrique","608",59.5,61.8,
-"Chauffage électrique","701",5827.5,,
-"Chauffage électrique","702",13.7,8.9,
-"Chauffage électrique","703",4856.6,5035.8,
-"Chauffage électrique","705",2171.1,4593.3,
-"Chauffage électrique","706",2541.4,4729.4,
-"Chauffage électrique","707",2973.6,2887.7,
-"Chauffage électrique","709",623.6,607.7,
-"Chauffage électrique","720",,1243.3,
-"Chauffage électrique","721",,3363,
-"Chauffage électrique","722",,31.9,
-"Chauffage électrique","801",2104.5,2188.1,
-"Chauffage électrique","803",3229.1,4360.8,
-"Chauffage électrique","804",6699.9,6645.7,
-"Chauffage électrique","805",559.9,692,
-"Chauffage électrique","806",2510.5,3358.8,
-"Chauffage électrique","807",49.4,124.7,
-"Chauffage électrique","808",12159.7,,
-"Chauffage électrique","809",2406.8,,
-"Chauffage électrique","810",1561.8,6111.4,
-"Chauffage électrique","820",,17.3,
-"Chauffage électrique","822",,420,
-"Chauffage électrique","823",,145.9,
-"Chauffage électrique","902",1582.5,1936.7,
-"Chauffage électrique","904",54.3,,
-"Chauffage électrique","905",60.9,131.1,
-"Chauffage électrique","906",5343.9,,
-"Chauffage électrique","908",66.3,57.7,
-"Chauffage électrique","909",3.5,5.6,
-"Chauffage électrique","910",1971.7,,
-"Chauffage électrique","911",1112.6,851.1,
-"Chauffage électrique","912",8558.6,7861.9,
-"Chauffage électrique","921",,5202.5,
-"Chauffage électrique","922",,31.5,
-"Chauffage électrique","1001",1380.8,1935.8,
-"Chauffage électrique","1002",3677.8,4744.9,
-"Chauffage électrique","1003",232.2,170.4,
-"Chauffage électrique","1004",48.5,,
-"Chauffage électrique","1005",645.2,26.1,
-"Chauffage électrique","1006",103.6,774.6,
-"Chauffage électrique","1007",,123.4,
-"Chauffage électrique","1009",1317.8,889.5,
-"Chauffage électrique","1010",2035.5,3581.6,
-"Chauffage électrique","1011",76.7,1013.5,
+"ChaudiÃ¨res","102",175.2,216.8,"GAZ"
+"ChaudiÃ¨res","104",119.1,,"GAZ"
+"ChaudiÃ¨res","107",195,83,"GAZ"
+"ChaudiÃ¨res","109",178.5,,"GAZ"
+"ChaudiÃ¨res","110",49.6,52.9,"GAZ"
+"ChaudiÃ¨res","121",,375.1,"GAZ"
+"ChaudiÃ¨res","122",,81.2,"GAZ"
+"ChaudiÃ¨res","201",96.7,117.4,"FIOUL"
+"ChaudiÃ¨res","206",589.7,478.1,"GAZ"
+"ChaudiÃ¨res","208",50.3,,"GAZ"
+"ChaudiÃ¨res","210",364.5,567.2,"GAZ"
+"ChaudiÃ¨res","305",226.8,175.5,"GAZ"
+"ChaudiÃ¨res","308",62.6,59.4,"GAZ"
+"ChaudiÃ¨res","309",93.6,92.7,"GAZ"
+"ChaudiÃ¨res","311",123.9,168.2,"GAZ"
+"ChaudiÃ¨res","403",273.4,215.5,"GAZ"
+"ChaudiÃ¨res","404",287.3,279.2,"GAZ"
+"ChaudiÃ¨res","420",,37.2,"GAZ"
+"ChaudiÃ¨res","501",81.7,,"GAZ"
+"ChaudiÃ¨res","504",88.9,103.8,"GAZ"
+"ChaudiÃ¨res","505",83.1,85,"GAZ"
+"ChaudiÃ¨res","508",235.4,225.5,"GAZ"
+"ChaudiÃ¨res","509",86.8,,"GAZ"
+"ChaudiÃ¨res","510",72.6,131.2,"FIOUL"
+"ChaudiÃ¨res","601",,128.1,"GAZ"
+"ChaudiÃ¨res","603",347.2,307,"GAZ"
+"ChaudiÃ¨res","604",233.2,196.7,"GAZ"
+"ChaudiÃ¨res","605",126.6,141.3,"GAZ"
+"ChaudiÃ¨res","607",201.5,203.6,"GAZ"
+"ChaudiÃ¨res","608",318.6,403,"GAZ"
+"ChaudiÃ¨res","620",,622.6,"GAZ"
+"ChaudiÃ¨res","701",58.7,,"FIOUL"
+"ChaudiÃ¨res","702",196.2,199,"GAZ"
+"ChaudiÃ¨res","704",371.9,532.8,"FIOUL"
+"ChaudiÃ¨res","708",55.3,,"GAZ"
+"ChaudiÃ¨res","722",,235.5,"FIOUL"
+"ChaudiÃ¨res","802",-901.5,,"COGÃ‰ GAZ"
+"ChaudiÃ¨res","822",,82.3,"GAZ"
+"ChaudiÃ¨res","903",111.9,137.1,"GAZ"
+"ChaudiÃ¨res","904",59.3,,"GAZ"
+"ChaudiÃ¨res","911",903.8,784.8,"FIOUL"
+"ChaudiÃ¨res","1004",613.3,364.9,"FIOUL"
+"ChaudiÃ¨res","1005",63.7,69.7,"GAZ"
+"ChaudiÃ¨res","1008",190.2,,"GAZ"
+"ChaudiÃ¨res","1009",93.4,110.5,"GAZ"
+"Chauffage Ã©lectrique","101",293.5,272.4,
+"Chauffage Ã©lectrique","103",1053.6,844.4,
+"Chauffage Ã©lectrique","105",11.1,5.1,
+"Chauffage Ã©lectrique","108",1888.9,,
+"Chauffage Ã©lectrique","109",17.6,,
+"Chauffage Ã©lectrique","110",150,109.8,
+"Chauffage Ã©lectrique","120",,211.9,
+"Chauffage Ã©lectrique","123",,227.8,
+"Chauffage Ã©lectrique","201",32.7,33.2,
+"Chauffage Ã©lectrique","202",1884.8,1946.8,
+"Chauffage Ã©lectrique","203",2486.1,2265.9,
+"Chauffage Ã©lectrique","204",6128.4,6566.1,
+"Chauffage Ã©lectrique","206",933.8,616.5,
+"Chauffage Ã©lectrique","207",5056.5,4830.2,
+"Chauffage Ã©lectrique","208",16.5,,
+"Chauffage Ã©lectrique","304",3411.8,,
+"Chauffage Ã©lectrique","306",3748.8,2039.1,
+"Chauffage Ã©lectrique","310",3456.4,4302.9,
+"Chauffage Ã©lectrique","320",,8,
+"Chauffage Ã©lectrique","326",,3.8,
+"Chauffage Ã©lectrique","401",936.2,,
+"Chauffage Ã©lectrique","402",2001.4,1336.5,
+"Chauffage Ã©lectrique","405",2898.2,89.9,
+"Chauffage Ã©lectrique","407",1465.5,863.3,
+"Chauffage Ã©lectrique","408",985.9,,
+"Chauffage Ã©lectrique","409",968,580.2,
+"Chauffage Ã©lectrique","410",4992.9,5763.2,
+"Chauffage Ã©lectrique","420",,979.4,
+"Chauffage Ã©lectrique","421",,38.1,
+"Chauffage Ã©lectrique","502",5315.7,5795.2,
+"Chauffage Ã©lectrique","503",505.7,336.9,
+"Chauffage Ã©lectrique","504",239.7,33.6,
+"Chauffage Ã©lectrique","505",2179.4,798,
+"Chauffage Ã©lectrique","506",288.1,336.7,
+"Chauffage Ã©lectrique","508",360.3,19.3,
+"Chauffage Ã©lectrique","601",,399.6,
+"Chauffage Ã©lectrique","604",60.2,59.1,
+"Chauffage Ã©lectrique","605",102,412.9,
+"Chauffage Ã©lectrique","606",60.8,9.8,
+"Chauffage Ã©lectrique","607",762.1,993.9,
+"Chauffage Ã©lectrique","608",59.5,61.8,
+"Chauffage Ã©lectrique","701",5827.5,,
+"Chauffage Ã©lectrique","702",13.7,8.9,
+"Chauffage Ã©lectrique","703",4856.6,5035.8,
+"Chauffage Ã©lectrique","705",2171.1,4593.3,
+"Chauffage Ã©lectrique","706",2541.4,4729.4,
+"Chauffage Ã©lectrique","707",2973.6,2887.7,
+"Chauffage Ã©lectrique","709",623.6,607.7,
+"Chauffage Ã©lectrique","720",,1243.3,
+"Chauffage Ã©lectrique","721",,3363,
+"Chauffage Ã©lectrique","722",,31.9,
+"Chauffage Ã©lectrique","801",2104.5,2188.1,
+"Chauffage Ã©lectrique","803",3229.1,4360.8,
+"Chauffage Ã©lectrique","804",6699.9,6645.7,
+"Chauffage Ã©lectrique","805",559.9,692,
+"Chauffage Ã©lectrique","806",2510.5,3358.8,
+"Chauffage Ã©lectrique","807",49.4,124.7,
+"Chauffage Ã©lectrique","808",12159.7,,
+"Chauffage Ã©lectrique","809",2406.8,,
+"Chauffage Ã©lectrique","810",1561.8,6111.4,
+"Chauffage Ã©lectrique","820",,17.3,
+"Chauffage Ã©lectrique","822",,420,
+"Chauffage Ã©lectrique","823",,145.9,
+"Chauffage Ã©lectrique","902",1582.5,1936.7,
+"Chauffage Ã©lectrique","904",54.3,,
+"Chauffage Ã©lectrique","905",60.9,131.1,
+"Chauffage Ã©lectrique","906",5343.9,,
+"Chauffage Ã©lectrique","908",66.3,57.7,
+"Chauffage Ã©lectrique","909",3.5,5.6,
+"Chauffage Ã©lectrique","910",1971.7,,
+"Chauffage Ã©lectrique","911",1112.6,851.1,
+"Chauffage Ã©lectrique","912",8558.6,7861.9,
+"Chauffage Ã©lectrique","921",,5202.5,
+"Chauffage Ã©lectrique","922",,31.5,
+"Chauffage Ã©lectrique","1001",1380.8,1935.8,
+"Chauffage Ã©lectrique","1002",3677.8,4744.9,
+"Chauffage Ã©lectrique","1003",232.2,170.4,
+"Chauffage Ã©lectrique","1004",48.5,,
+"Chauffage Ã©lectrique","1005",645.2,26.1,
+"Chauffage Ã©lectrique","1006",103.6,774.6,
+"Chauffage Ã©lectrique","1007",,123.4,
+"Chauffage Ã©lectrique","1009",1317.8,889.5,
+"Chauffage Ã©lectrique","1010",2035.5,3581.6,
+"Chauffage Ã©lectrique","1011",76.7,1013.5,
 "Clim_fixe","902",784,785.6,
 "Clim_fixe","803",597,692.5,
 "Clim_fixe","505",164.2,189.7,
@@ -482,85 +482,85 @@
 "Clim_fixe","906",284.3,,
 "Clim_fixe","910",200.4,,
 "Clim_fixe","1001",94,,
-"Clim_mob_rafraich_Déshum","802",386.8,,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","709",28.6,,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","310",6,79.9,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","721",,674,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","105",,80.9,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","602",,125.9,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","1006",,25.4,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","903",,85.1,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","907",,49.3,"CLIMATISEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","102",1404.8,1377,"DÉSHUMIDIFCATEUR"
-"Clim_mob_rafraich_Déshum","601",3.8,188,"DÉSHUMIDIFCATEUR"
-"Clim_mob_rafraich_Déshum","421",,62.8,"DÉSHUMIDIFCATEUR"
-"Clim_mob_rafraich_Déshum","403",29.3,0,"RAFRAICHISSEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","604",8.4,7.1,"RAFRAICHISSEUR SUR PRISE"
-"Clim_mob_rafraich_Déshum","1008",0,,"RAFRAICHISSEUR SUR PRISE"
-"Congélateur","101",115.9,208.8,"ARMOIRE"
-"Congélateur","202",113.3,122.1,"ARMOIRE"
-"Congélateur","203",109.1,98.2,"ARMOIRE"
-"Congélateur","205",267.4,271.3,"ARMOIRE"
-"Congélateur","206",162.2,155.7,"ARMOIRE"
-"Congélateur","208",187.2,,"ARMOIRE"
-"Congélateur","208",145.5,,"ARMOIRE"
-"Congélateur","209",109,80,"ARMOIRE"
-"Congélateur","210",701.1,766,"ARMOIRE"
-"Congélateur","303",262.7,258.5,"ARMOIRE"
-"Congélateur","308",441.5,449,"ARMOIRE"
-"Congélateur","311",308.2,222.7,"ARMOIRE"
-"Congélateur","401",173.6,,"ARMOIRE"
-"Congélateur","405",169.2,150.3,"ARMOIRE"
-"Congélateur","406",201.3,409,"ARMOIRE"
-"Congélateur","407",388,372.2,"ARMOIRE"
-"Congélateur","503",225,182.4,"ARMOIRE"
-"Congélateur","505",152.8,163.7,"ARMOIRE"
-"Congélateur","601",589.8,201.1,"ARMOIRE"
-"Congélateur","604",30.8,210.2,"ARMOIRE"
-"Congélateur","607",231.3,228.2,"ARMOIRE"
-"Congélateur","701",228.2,,"ARMOIRE"
-"Congélateur","705",626.9,639.1,"ARMOIRE"
-"Congélateur","708",427,,"ARMOIRE"
-"Congélateur","803",303.3,319.1,"ARMOIRE"
-"Congélateur","804",295,312.1,"ARMOIRE"
-"Congélateur","808",415,,"ARMOIRE"
-"Congélateur","809",171.5,,"ARMOIRE"
-"Congélateur","809",105.2,,"ARMOIRE"
-"Congélateur","902",259.6,268.3,"ARMOIRE"
-"Congélateur","907",886.3,898.2,"ARMOIRE"
-"Congélateur","1003",220.8,206.7,"ARMOIRE"
-"Congélateur","1006",235,241.6,"ARMOIRE"
-"Congélateur","1007",166.8,196.6,"ARMOIRE"
-"Congélateur","1010",636.7,521.4,"ARMOIRE"
-"Congélateur","1010",237.9,242.3,"ARMOIRE"
-"Congélateur","320",,301.7,"ARMOIRE"
-"Congélateur","620",,202.9,"ARMOIRE"
-"Congélateur","720",,378.6,"ARMOIRE"
-"Congélateur","912",,263.1,"ARMOIRE"
-"Congélateur","105",337,307.1,"COFFRE"
-"Congélateur","201",619.2,533.5,"COFFRE"
-"Congélateur","209",142.6,149.9,"COFFRE"
-"Congélateur","210",168.1,175.7,"COFFRE"
-"Congélateur","403",200.8,230.6,"COFFRE"
-"Congélateur","503",418.8,457.8,"COFFRE"
-"Congélateur","510",492,985.2,"COFFRE"
-"Congélateur","602",209.1,232,"COFFRE"
-"Congélateur","603",107.4,164.6,"COFFRE"
-"Congélateur","607",286.2,273.9,"COFFRE"
-"Congélateur","709",302.3,337.6,"COFFRE"
-"Congélateur","709",194.4,42.2,"COFFRE"
-"Congélateur","802",222.6,,"COFFRE"
-"Congélateur","809",289.5,,"COFFRE"
-"Congélateur","810",644.3,616.2,"COFFRE"
-"Congélateur","904",502.4,,"COFFRE"
-"Congélateur","906",227.2,,"COFFRE"
-"Congélateur","911",223.3,220.4,"COFFRE"
-"Congélateur","1010",81.9,168.9,"COFFRE"
-"Congélateur","1011",178.7,180.2,"COFFRE"
-"Congélateur","722",,152.7,"COFFRE"
-"Congélateur","805",,210.9,"COFFRE"
-"Congélateur","620",,344.3,"COFFRE"
-"Congélateur","805",,292.5,"COFFRE"
+"Clim_mob_rafraich_DÃ©shum","802",386.8,,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","709",28.6,,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","310",6,79.9,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","721",,674,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","105",,80.9,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","602",,125.9,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","1006",,25.4,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","903",,85.1,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","907",,49.3,"CLIMATISEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","102",1404.8,1377,"DÃ‰SHUMIDIFCATEUR"
+"Clim_mob_rafraich_DÃ©shum","601",3.8,188,"DÃ‰SHUMIDIFCATEUR"
+"Clim_mob_rafraich_DÃ©shum","421",,62.8,"DÃ‰SHUMIDIFCATEUR"
+"Clim_mob_rafraich_DÃ©shum","403",29.3,0,"RAFRAICHISSEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","604",8.4,7.1,"RAFRAICHISSEUR SUR PRISE"
+"Clim_mob_rafraich_DÃ©shum","1008",0,,"RAFRAICHISSEUR SUR PRISE"
+"CongÃ©lateur","101",115.9,208.8,"ARMOIRE"
+"CongÃ©lateur","202",113.3,122.1,"ARMOIRE"
+"CongÃ©lateur","203",109.1,98.2,"ARMOIRE"
+"CongÃ©lateur","205",267.4,271.3,"ARMOIRE"
+"CongÃ©lateur","206",162.2,155.7,"ARMOIRE"
+"CongÃ©lateur","208",187.2,,"ARMOIRE"
+"CongÃ©lateur","208",145.5,,"ARMOIRE"
+"CongÃ©lateur","209",109,80,"ARMOIRE"
+"CongÃ©lateur","210",701.1,766,"ARMOIRE"
+"CongÃ©lateur","303",262.7,258.5,"ARMOIRE"
+"CongÃ©lateur","308",441.5,449,"ARMOIRE"
+"CongÃ©lateur","311",308.2,222.7,"ARMOIRE"
+"CongÃ©lateur","401",173.6,,"ARMOIRE"
+"CongÃ©lateur","405",169.2,150.3,"ARMOIRE"
+"CongÃ©lateur","406",201.3,409,"ARMOIRE"
+"CongÃ©lateur","407",388,372.2,"ARMOIRE"
+"CongÃ©lateur","503",225,182.4,"ARMOIRE"
+"CongÃ©lateur","505",152.8,163.7,"ARMOIRE"
+"CongÃ©lateur","601",589.8,201.1,"ARMOIRE"
+"CongÃ©lateur","604",30.8,210.2,"ARMOIRE"
+"CongÃ©lateur","607",231.3,228.2,"ARMOIRE"
+"CongÃ©lateur","701",228.2,,"ARMOIRE"
+"CongÃ©lateur","705",626.9,639.1,"ARMOIRE"
+"CongÃ©lateur","708",427,,"ARMOIRE"
+"CongÃ©lateur","803",303.3,319.1,"ARMOIRE"
+"CongÃ©lateur","804",295,312.1,"ARMOIRE"
+"CongÃ©lateur","808",415,,"ARMOIRE"
+"CongÃ©lateur","809",171.5,,"ARMOIRE"
+"CongÃ©lateur","809",105.2,,"ARMOIRE"
+"CongÃ©lateur","902",259.6,268.3,"ARMOIRE"
+"CongÃ©lateur","907",886.3,898.2,"ARMOIRE"
+"CongÃ©lateur","1003",220.8,206.7,"ARMOIRE"
+"CongÃ©lateur","1006",235,241.6,"ARMOIRE"
+"CongÃ©lateur","1007",166.8,196.6,"ARMOIRE"
+"CongÃ©lateur","1010",636.7,521.4,"ARMOIRE"
+"CongÃ©lateur","1010",237.9,242.3,"ARMOIRE"
+"CongÃ©lateur","320",,301.7,"ARMOIRE"
+"CongÃ©lateur","620",,202.9,"ARMOIRE"
+"CongÃ©lateur","720",,378.6,"ARMOIRE"
+"CongÃ©lateur","912",,263.1,"ARMOIRE"
+"CongÃ©lateur","105",337,307.1,"COFFRE"
+"CongÃ©lateur","201",619.2,533.5,"COFFRE"
+"CongÃ©lateur","209",142.6,149.9,"COFFRE"
+"CongÃ©lateur","210",168.1,175.7,"COFFRE"
+"CongÃ©lateur","403",200.8,230.6,"COFFRE"
+"CongÃ©lateur","503",418.8,457.8,"COFFRE"
+"CongÃ©lateur","510",492,985.2,"COFFRE"
+"CongÃ©lateur","602",209.1,232,"COFFRE"
+"CongÃ©lateur","603",107.4,164.6,"COFFRE"
+"CongÃ©lateur","607",286.2,273.9,"COFFRE"
+"CongÃ©lateur","709",302.3,337.6,"COFFRE"
+"CongÃ©lateur","709",194.4,42.2,"COFFRE"
+"CongÃ©lateur","802",222.6,,"COFFRE"
+"CongÃ©lateur","809",289.5,,"COFFRE"
+"CongÃ©lateur","810",644.3,616.2,"COFFRE"
+"CongÃ©lateur","904",502.4,,"COFFRE"
+"CongÃ©lateur","906",227.2,,"COFFRE"
+"CongÃ©lateur","911",223.3,220.4,"COFFRE"
+"CongÃ©lateur","1010",81.9,168.9,"COFFRE"
+"CongÃ©lateur","1011",178.7,180.2,"COFFRE"
+"CongÃ©lateur","722",,152.7,"COFFRE"
+"CongÃ©lateur","805",,210.9,"COFFRE"
+"CongÃ©lateur","620",,344.3,"COFFRE"
+"CongÃ©lateur","805",,292.5,"COFFRE"
 "Console de jeux","207",56.6,68.5,
 "Console de jeux","404",8.4,77.6,
 "Console de jeux","408",15.3,,
@@ -585,26 +585,26 @@
 "Console de jeux","921",,11.1,
 "Console de jeux","603",,4.8,
 "Console de jeux","210",,158,
-"Cuisinières","601",121.7,159.1,"FOUR ÉLECTRIQUE + PLAQUES GAZ"
-"Cuisinières","101",110.3,114,"FOUR ÉLECTRIQUE + PLAQUES GAZ + 1 PLAQUE ÉLECTRIQUE"
-"Cuisinières","311",236.1,247,"FOUR ÉLECTRIQUE + PLAQUES GAZ + 1 PLAQUE ÉLECTRIQUE"
-"Cuisinières","503",193.7,61.8,"FOUR ÉLECTRIQUE + PLAQUES GAZ + 1 PLAQUE ÉLECTRIQUE"
-"Cuisinières","302",286.3,256,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","303",255.8,253.8,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","304",217.2,,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","405",38.3,7.7,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","409",151.4,267.5,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","504",185.5,154.6,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","506",72.6,75,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","507",111.2,168.1,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","606",136.9,248.7,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","708",153.6,,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","907",132.6,76.2,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","1005",215.2,228.7,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","121",,37.9,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","520",,135.3,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","603",,212.8,"FOUR+PLAQUES ÉLECTRIQUES"
-"Cuisinières","722",,543.3,"FOUR+PLAQUES ÉLECTRIQUES"
+"CuisiniÃ¨res","601",121.7,159.1,"FOUR Ã‰LECTRIQUE + PLAQUES GAZ"
+"CuisiniÃ¨res","101",110.3,114,"FOUR Ã‰LECTRIQUE + PLAQUES GAZ + 1 PLAQUE Ã‰LECTRIQUE"
+"CuisiniÃ¨res","311",236.1,247,"FOUR Ã‰LECTRIQUE + PLAQUES GAZ + 1 PLAQUE Ã‰LECTRIQUE"
+"CuisiniÃ¨res","503",193.7,61.8,"FOUR Ã‰LECTRIQUE + PLAQUES GAZ + 1 PLAQUE Ã‰LECTRIQUE"
+"CuisiniÃ¨res","302",286.3,256,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","303",255.8,253.8,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","304",217.2,,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","405",38.3,7.7,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","409",151.4,267.5,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","504",185.5,154.6,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","506",72.6,75,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","507",111.2,168.1,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","606",136.9,248.7,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","708",153.6,,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","907",132.6,76.2,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","1005",215.2,228.7,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","121",,37.9,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","520",,135.3,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","603",,212.8,"FOUR+PLAQUES Ã‰LECTRIQUES"
+"CuisiniÃ¨res","722",,543.3,"FOUR+PLAQUES Ã‰LECTRIQUES"
 "Divers cuisine","1004",1.2,1.6,"BLENDER"
 "Divers cuisine","208",18.5,,"CUISSEUR VAPEUR"
 "Divers cuisine","606",0.7,0.7,"CUISSEUR VAPEUR"
@@ -621,10 +621,10 @@
 "Divers cuisine","205",3.9,6.7,"GRILLE PAIN"
 "Divers cuisine","207",,2.5,"GRILLE PAIN"
 "Divers cuisine","420",,0.9,"GRILLE PAIN"
-"Divers cuisine","410",4.2,,"MACHINE À PAIN"
-"Divers cuisine","204",0,,"PLANCHA ÉLECTRIQUE"
-"Divers cuisine","307",0,,"PLANCHA ÉLECTRIQUE"
-"Divers cuisine","922",,0.4,"PLANCHA ÉLECTRIQUE"
+"Divers cuisine","410",4.2,,"MACHINE Ã€ PAIN"
+"Divers cuisine","204",0,,"PLANCHA Ã‰LECTRIQUE"
+"Divers cuisine","307",0,,"PLANCHA Ã‰LECTRIQUE"
+"Divers cuisine","922",,0.4,"PLANCHA Ã‰LECTRIQUE"
 "Divers cuisine","209",1.6,1.7,"RACLETTE"
 "Divers cuisine","601",17.8,21.1,"RICE COOKER"
 "Divers cuisine","907",4.9,1.6,"RICE COOKER"
@@ -1005,126 +1005,126 @@
 "Fours","823",,70.3,
 "Fours","921",,221.8,
 "Fours","922",,58.7,
-"Général","101",2083.6,2323.2,
-"Général","102",3282.7,2542.3,
-"Général","103",4188,4113.2,
-"Général","104",1369,,
-"Général","105",2801.9,3053.5,
-"Général","106",1531,,
-"Général","107",951.9,685.1,
-"Général","108",3376.4,,
-"Général","109",1535.9,,
-"Général","110",1166.5,1215.4,
-"Général","120",,2150.7,
-"Général","121",,1413.1,
-"Général","122",,1489.1,
-"Général","123",,1966.5,
-"Général","201",3436.8,3274.2,
-"Général","202",6532.9,5449.1,
-"Général","203",3920.5,3698.4,
-"Général","204",10056.3,10516.4,
-"Général","205",3040.1,3183.1,
-"Général","206",8603,12816.2,
-"Général","207",7061.1,7086.4,
-"Général","208",1094.2,,
-"Général","209",4563.7,4790.2,
-"Général","210",3965.4,4767.4,
-"Général","301",1345,1089.1,
-"Général","302",1411.5,1313.8,
-"Général","303",2608.8,2301.5,
-"Général","304",8446.5,,
-"Général","305",1665.3,1541.2,
-"Général","306",8126.7,6290.5,
-"Général","307",1196.2,,
-"Général","308",1539.3,1548.5,
-"Général","309",1395.4,1475.7,
-"Général","310",5097.4,6730.2,
-"Général","311",3351.4,3459.5,
-"Général","320",,1301.5,
-"Général","326",,1317.6,
-"Général","401",6033.7,,
-"Général","402",4721.5,4499.1,
-"Général","403",1582.5,1227.7,
-"Général","404",1396.3,1853.1,
-"Général","405",4492.3,1153.4,
-"Général","406",7369.1,7617.5,
-"Général","407",5560.8,3662.3,
-"Général","408",2271.8,,
-"Général","409",3621.7,3560.5,
-"Général","410",7809.4,8517.8,
-"Général","420",,1876.7,
-"Général","421",,1977.1,
-"Général","501",1276.9,,
-"Général","502",11529.6,12662.1,
-"Général","503",7011.7,6309.3,
-"Général","504",1251.1,1139.5,
-"Général","505",4806.5,3658.8,
-"Général","506",2554.6,2699.4,
-"Général","507",994.8,1065.8,
-"Général","508",2885,9556.4,
-"Général","509",3738.4,,
-"Général","510",4309,4958.4,
-"Général","520",,620.9,
-"Général","601",13759.9,4409.6,
-"Général","602",2550.6,2756.1,
-"Général","603",2209.2,1967.7,
-"Général","604",2006,2238.4,
-"Général","605",3397.2,3883.5,
-"Général","606",1161.1,1382.9,
-"Général","607",9811.4,7718,
-"Général","608",1377.1,1540.2,
-"Général","620",,3764.9,
-"Général","701",8745.5,,
-"Général","702",2237.3,3024.9,
-"Général","703",9013.3,10102.4,
-"Général","704",3113.1,3158.3,
-"Général","705",7827.2,9381.1,
-"Général","706",6589.5,8847.2,
-"Général","707",5416.2,5656.8,
-"Général","708",1453.6,,
-"Général","709",5196.7,5446.5,
-"Général","720",,6526.7,
-"Général","721",,8475.2,
-"Général","722",,2919.1,
-"Général","801",6815.5,7235.2,
-"Général","802",4756.1,,
-"Général","803",10922.3,11464.6,
-"Général","804",12229.9,12652.4,
-"Général","805",4889.1,5491.3,
-"Général","806",5514,6517.7,
-"Général","807",4249.8,4428.1,
-"Général","808",18596.2,,
-"Général","809",9246.2,,
-"Général","810",6828.7,12309.2,
-"Général","820",,978.8,
-"Général","821",,1010.4,
-"Général","822",,1849.6,
-"Général","823",,1677.7,
-"Général","901",1031.1,961.2,
-"Général","902",7480.5,8644.6,
-"Général","903",3271.2,3331.5,
-"Général","904",2179.7,,
-"Général","905",2412.3,2408.4,
-"Général","906",11342.8,,
-"Général","907",2981.1,2516.9,
-"Général","908",1123.3,1184.4,
-"Général","909",2327.1,2163.8,
-"Général","910",4510.4,,
-"Général","911",13974.7,13296.2,
-"Général","912",11081.6,11147.5,
-"Général","921",,9480.8,
-"Général","922",,1266.4,
-"Général","1001",3741.3,3578.1,
-"Général","1002",5607.3,6672.1,
-"Général","1003",2567.9,2415.4,
-"Général","1004",4316.8,5719.9,
-"Général","1005",2154.7,2261.8,
-"Général","1006",5322.1,5612.9,
-"Général","1007",4094.3,4558.5,
-"Général","1008",6385.6,,
-"Général","1009",4829,4579.4,
-"Général","1010",9306.8,11374.2,
-"Général","1011",6096.5,5365.5,
+"GÃ©nÃ©ral","101",2083.6,2323.2,
+"GÃ©nÃ©ral","102",3282.7,2542.3,
+"GÃ©nÃ©ral","103",4188,4113.2,
+"GÃ©nÃ©ral","104",1369,,
+"GÃ©nÃ©ral","105",2801.9,3053.5,
+"GÃ©nÃ©ral","106",1531,,
+"GÃ©nÃ©ral","107",951.9,685.1,
+"GÃ©nÃ©ral","108",3376.4,,
+"GÃ©nÃ©ral","109",1535.9,,
+"GÃ©nÃ©ral","110",1166.5,1215.4,
+"GÃ©nÃ©ral","120",,2150.7,
+"GÃ©nÃ©ral","121",,1413.1,
+"GÃ©nÃ©ral","122",,1489.1,
+"GÃ©nÃ©ral","123",,1966.5,
+"GÃ©nÃ©ral","201",3436.8,3274.2,
+"GÃ©nÃ©ral","202",6532.9,5449.1,
+"GÃ©nÃ©ral","203",3920.5,3698.4,
+"GÃ©nÃ©ral","204",10056.3,10516.4,
+"GÃ©nÃ©ral","205",3040.1,3183.1,
+"GÃ©nÃ©ral","206",8603,12816.2,
+"GÃ©nÃ©ral","207",7061.1,7086.4,
+"GÃ©nÃ©ral","208",1094.2,,
+"GÃ©nÃ©ral","209",4563.7,4790.2,
+"GÃ©nÃ©ral","210",3965.4,4767.4,
+"GÃ©nÃ©ral","301",1345,1089.1,
+"GÃ©nÃ©ral","302",1411.5,1313.8,
+"GÃ©nÃ©ral","303",2608.8,2301.5,
+"GÃ©nÃ©ral","304",8446.5,,
+"GÃ©nÃ©ral","305",1665.3,1541.2,
+"GÃ©nÃ©ral","306",8126.7,6290.5,
+"GÃ©nÃ©ral","307",1196.2,,
+"GÃ©nÃ©ral","308",1539.3,1548.5,
+"GÃ©nÃ©ral","309",1395.4,1475.7,
+"GÃ©nÃ©ral","310",5097.4,6730.2,
+"GÃ©nÃ©ral","311",3351.4,3459.5,
+"GÃ©nÃ©ral","320",,1301.5,
+"GÃ©nÃ©ral","326",,1317.6,
+"GÃ©nÃ©ral","401",6033.7,,
+"GÃ©nÃ©ral","402",4721.5,4499.1,
+"GÃ©nÃ©ral","403",1582.5,1227.7,
+"GÃ©nÃ©ral","404",1396.3,1853.1,
+"GÃ©nÃ©ral","405",4492.3,1153.4,
+"GÃ©nÃ©ral","406",7369.1,7617.5,
+"GÃ©nÃ©ral","407",5560.8,3662.3,
+"GÃ©nÃ©ral","408",2271.8,,
+"GÃ©nÃ©ral","409",3621.7,3560.5,
+"GÃ©nÃ©ral","410",7809.4,8517.8,
+"GÃ©nÃ©ral","420",,1876.7,
+"GÃ©nÃ©ral","421",,1977.1,
+"GÃ©nÃ©ral","501",1276.9,,
+"GÃ©nÃ©ral","502",11529.6,12662.1,
+"GÃ©nÃ©ral","503",7011.7,6309.3,
+"GÃ©nÃ©ral","504",1251.1,1139.5,
+"GÃ©nÃ©ral","505",4806.5,3658.8,
+"GÃ©nÃ©ral","506",2554.6,2699.4,
+"GÃ©nÃ©ral","507",994.8,1065.8,
+"GÃ©nÃ©ral","508",2885,9556.4,
+"GÃ©nÃ©ral","509",3738.4,,
+"GÃ©nÃ©ral","510",4309,4958.4,
+"GÃ©nÃ©ral","520",,620.9,
+"GÃ©nÃ©ral","601",13759.9,4409.6,
+"GÃ©nÃ©ral","602",2550.6,2756.1,
+"GÃ©nÃ©ral","603",2209.2,1967.7,
+"GÃ©nÃ©ral","604",2006,2238.4,
+"GÃ©nÃ©ral","605",3397.2,3883.5,
+"GÃ©nÃ©ral","606",1161.1,1382.9,
+"GÃ©nÃ©ral","607",9811.4,7718,
+"GÃ©nÃ©ral","608",1377.1,1540.2,
+"GÃ©nÃ©ral","620",,3764.9,
+"GÃ©nÃ©ral","701",8745.5,,
+"GÃ©nÃ©ral","702",2237.3,3024.9,
+"GÃ©nÃ©ral","703",9013.3,10102.4,
+"GÃ©nÃ©ral","704",3113.1,3158.3,
+"GÃ©nÃ©ral","705",7827.2,9381.1,
+"GÃ©nÃ©ral","706",6589.5,8847.2,
+"GÃ©nÃ©ral","707",5416.2,5656.8,
+"GÃ©nÃ©ral","708",1453.6,,
+"GÃ©nÃ©ral","709",5196.7,5446.5,
+"GÃ©nÃ©ral","720",,6526.7,
+"GÃ©nÃ©ral","721",,8475.2,
+"GÃ©nÃ©ral","722",,2919.1,
+"GÃ©nÃ©ral","801",6815.5,7235.2,
+"GÃ©nÃ©ral","802",4756.1,,
+"GÃ©nÃ©ral","803",10922.3,11464.6,
+"GÃ©nÃ©ral","804",12229.9,12652.4,
+"GÃ©nÃ©ral","805",4889.1,5491.3,
+"GÃ©nÃ©ral","806",5514,6517.7,
+"GÃ©nÃ©ral","807",4249.8,4428.1,
+"GÃ©nÃ©ral","808",18596.2,,
+"GÃ©nÃ©ral","809",9246.2,,
+"GÃ©nÃ©ral","810",6828.7,12309.2,
+"GÃ©nÃ©ral","820",,978.8,
+"GÃ©nÃ©ral","821",,1010.4,
+"GÃ©nÃ©ral","822",,1849.6,
+"GÃ©nÃ©ral","823",,1677.7,
+"GÃ©nÃ©ral","901",1031.1,961.2,
+"GÃ©nÃ©ral","902",7480.5,8644.6,
+"GÃ©nÃ©ral","903",3271.2,3331.5,
+"GÃ©nÃ©ral","904",2179.7,,
+"GÃ©nÃ©ral","905",2412.3,2408.4,
+"GÃ©nÃ©ral","906",11342.8,,
+"GÃ©nÃ©ral","907",2981.1,2516.9,
+"GÃ©nÃ©ral","908",1123.3,1184.4,
+"GÃ©nÃ©ral","909",2327.1,2163.8,
+"GÃ©nÃ©ral","910",4510.4,,
+"GÃ©nÃ©ral","911",13974.7,13296.2,
+"GÃ©nÃ©ral","912",11081.6,11147.5,
+"GÃ©nÃ©ral","921",,9480.8,
+"GÃ©nÃ©ral","922",,1266.4,
+"GÃ©nÃ©ral","1001",3741.3,3578.1,
+"GÃ©nÃ©ral","1002",5607.3,6672.1,
+"GÃ©nÃ©ral","1003",2567.9,2415.4,
+"GÃ©nÃ©ral","1004",4316.8,5719.9,
+"GÃ©nÃ©ral","1005",2154.7,2261.8,
+"GÃ©nÃ©ral","1006",5322.1,5612.9,
+"GÃ©nÃ©ral","1007",4094.3,4558.5,
+"GÃ©nÃ©ral","1008",6385.6,,
+"GÃ©nÃ©ral","1009",4829,4579.4,
+"GÃ©nÃ©ral","1010",9306.8,11374.2,
+"GÃ©nÃ©ral","1011",6096.5,5365.5,
 "Hifi","101",1.3,0,"HIFI"
 "Hifi","105",,0,"HIFI"
 "Hifi","109",17.3,,"HIFI"
@@ -1339,10 +1339,10 @@
 "Lave linge","822",,43.4,"HUBLOT"
 "Lave linge","823",,78.3,"HUBLOT"
 "Lave linge","922",,19.4,"HUBLOT"
-"Lave linge","305",93.7,230.2,"SÉCHANTE"
-"Lave linge","405",13.3,3.8,"SÉCHANTE"
-"Lave linge","504",36.9,39.1,"SÉCHANTE"
-"Lave linge","801",134.3,282.4,"SÉCHANTE"
+"Lave linge","305",93.7,230.2,"SÃ‰CHANTE"
+"Lave linge","405",13.3,3.8,"SÃ‰CHANTE"
+"Lave linge","504",36.9,39.1,"SÃ‰CHANTE"
+"Lave linge","801",134.3,282.4,"SÃ‰CHANTE"
 "Lave linge","101",39.8,44.6,"TOP"
 "Lave linge","103",54.2,64,"TOP"
 "Lave linge","106",62.9,,"TOP"
@@ -1495,13 +1495,13 @@
 "Mini_Fours","1006",17,,
 "Mini_Fours","320",,7.8,
 "Mini_Fours","206",,328.9,
-"Mobilité_électrique","1008",6.7,,"TROTINETTE ÉLECTRIQUE"
-"Mobilité_électrique","703",11.9,8.9,"VÉLO ÉLECTRIQUE"
-"Mobilité_électrique","806",6.8,7.8,"VÉLO ÉLECTRIQUE"
-"Mobilité_électrique","911",4.1,1.1,"VÉLO ÉLECTRIQUE"
-"Mobilité_électrique","1005",22.1,15.2,"VÉLO ÉLECTRIQUE"
-"Mobilité_électrique","1006",9.2,31,"VÉLO ÉLECTRIQUE"
-"Mobilité_électrique","720",,1.3,"VÉLO ÉLECTRIQUE"
+"MobilitÃ©_Ã©lectrique","1008",6.7,,"TROTINETTE Ã‰LECTRIQUE"
+"MobilitÃ©_Ã©lectrique","703",11.9,8.9,"VÃ‰LO Ã‰LECTRIQUE"
+"MobilitÃ©_Ã©lectrique","806",6.8,7.8,"VÃ‰LO Ã‰LECTRIQUE"
+"MobilitÃ©_Ã©lectrique","911",4.1,1.1,"VÃ‰LO Ã‰LECTRIQUE"
+"MobilitÃ©_Ã©lectrique","1005",22.1,15.2,"VÃ‰LO Ã‰LECTRIQUE"
+"MobilitÃ©_Ã©lectrique","1006",9.2,31,"VÃ‰LO Ã‰LECTRIQUE"
+"MobilitÃ©_Ã©lectrique","720",,1.3,"VÃ‰LO Ã‰LECTRIQUE"
 "Multicuiseurs","103",2.1,0.1,
 "Multicuiseurs","105",5.7,10.1,
 "Multicuiseurs","206",16.2,66.6,
@@ -1539,12 +1539,12 @@
 "Multicuiseurs","721",,15.1,
 "Multicuiseurs","822",,5.8,
 "Multicuiseurs","510",,62.2,
-"Nettoyage_sols","1011",3.3,0.7,"ASPIRATEUR À MAIN"
-"Nettoyage_sols","402",,2.8,"ASPIRATEUR À MAIN"
-"Nettoyage_sols","108",13,,"ASPIRATEUR CENTRALISÉ"
-"Nettoyage_sols","410",33.9,35.4,"ASPIRATEUR CENTRALISÉ"
-"Nettoyage_sols","1010",7.9,5.6,"ASPIRATEUR CENTRALISÉ"
-"Nettoyage_sols","721",,19.6,"ASPIRATEUR CENTRALISÉ"
+"Nettoyage_sols","1011",3.3,0.7,"ASPIRATEUR Ã€ MAIN"
+"Nettoyage_sols","402",,2.8,"ASPIRATEUR Ã€ MAIN"
+"Nettoyage_sols","108",13,,"ASPIRATEUR CENTRALISÃ‰"
+"Nettoyage_sols","410",33.9,35.4,"ASPIRATEUR CENTRALISÃ‰"
+"Nettoyage_sols","1010",7.9,5.6,"ASPIRATEUR CENTRALISÃ‰"
+"Nettoyage_sols","721",,19.6,"ASPIRATEUR CENTRALISÃ‰"
 "Nettoyage_sols","305",3.3,3.1,"ASPIRATEUR FILAIRE"
 "Nettoyage_sols","606",15.7,15,"ASPIRATEUR FILAIRE"
 "Nettoyage_sols","708",4.1,,"ASPIRATEUR FILAIRE"
@@ -1735,25 +1735,25 @@
 "Ordi_portables","822",,6.7,
 "Ordi_portables","823",,14.6,
 "Ordi_portables","420",,3,
-"Périph_info_bureautique","605",12,12.5,"ASSISTANT VOCAL"
-"Périph_info_bureautique","821",,19,"ASSISTANT VOCAL"
-"Périph_info_bureautique","108",5.3,,"DISQUE DUR"
-"Périph_info_bureautique","705",52.6,,"HUB USB"
-"Périph_info_bureautique","509",13.1,,"SCANNER CODES BARRES"
-"Périph_info_bureautique","510",13.1,,"SCANNER CODES BARRES"
-"Périph_info_bureautique","704",24.5,,"SCANNER CODES BARRES"
-"Périph_info_bureautique","705",14.9,,"SCANNER CODES BARRES"
-"Périph_Internet_réseaux","304",8,,"SERVEUR"
-"Périph_Internet_réseaux","607",122.7,153.8,"SERVEUR"
-"Périph_Internet_réseaux","1005",76.3,76.2,"SERVEUR"
-"Périph_Internet_réseaux","1007",,183,"SERVEUR"
-"Périph_Internet_réseaux","803",44.4,42.8,"SWITCH ETHERNET"
-"Periph_multimedia","204",130.2,95,"DÉCODEUR"
-"Periph_multimedia","505",125.6,102,"DÉCODEUR"
-"Periph_multimedia","803",97.6,98,"DÉCODEUR"
-"Periph_multimedia","808",114.3,,"DÉCODEUR"
-"Periph_multimedia","810",5.5,10.4,"DÉCODEUR"
-"Periph_multimedia","911",42.9,42.9,"DÉCODEUR"
+"PÃ©riph_info_bureautique","605",12,12.5,"ASSISTANT VOCAL"
+"PÃ©riph_info_bureautique","821",,19,"ASSISTANT VOCAL"
+"PÃ©riph_info_bureautique","108",5.3,,"DISQUE DUR"
+"PÃ©riph_info_bureautique","705",52.6,,"HUB USB"
+"PÃ©riph_info_bureautique","509",13.1,,"SCANNER CODES BARRES"
+"PÃ©riph_info_bureautique","510",13.1,,"SCANNER CODES BARRES"
+"PÃ©riph_info_bureautique","704",24.5,,"SCANNER CODES BARRES"
+"PÃ©riph_info_bureautique","705",14.9,,"SCANNER CODES BARRES"
+"PÃ©riph_Internet_rÃ©seaux","304",8,,"SERVEUR"
+"PÃ©riph_Internet_rÃ©seaux","607",122.7,153.8,"SERVEUR"
+"PÃ©riph_Internet_rÃ©seaux","1005",76.3,76.2,"SERVEUR"
+"PÃ©riph_Internet_rÃ©seaux","1007",,183,"SERVEUR"
+"PÃ©riph_Internet_rÃ©seaux","803",44.4,42.8,"SWITCH ETHERNET"
+"Periph_multimedia","204",130.2,95,"DÃ‰CODEUR"
+"Periph_multimedia","505",125.6,102,"DÃ‰CODEUR"
+"Periph_multimedia","803",97.6,98,"DÃ‰CODEUR"
+"Periph_multimedia","808",114.3,,"DÃ‰CODEUR"
+"Periph_multimedia","810",5.5,10.4,"DÃ‰CODEUR"
+"Periph_multimedia","911",42.9,42.9,"DÃ‰CODEUR"
 "Periph_multimedia","409",0.6,0.6,"LECTEUR DVD OU BLU RAY"
 "Periph_multimedia","506",1.4,0.7,"LECTEUR DVD OU BLU RAY"
 "Periph_multimedia","601",51.5,27.1,"LECTEUR DVD OU BLU RAY"
@@ -1772,9 +1772,9 @@
 "Piscines","804",1746.8,1635.2,"HORS SOL"
 "Piscines","805",101.5,,"PETITE"
 "Piscines","902",206.5,268.3,"HORS SOL"
-"Piscines","911",2734.2,4086.3,"ENTERRÉE"
+"Piscines","911",2734.2,4086.3,"ENTERRÃ‰E"
 "Piscines","1004",2517,1211,"HORS SOL"
-"Piscines","1010",1488.9,1247.1,"ENTERRÉE"
+"Piscines","1010",1488.9,1247.1,"ENTERRÃ‰E"
 "Piscines","1011",266,0.6,"HORS SOL"
 "Plaques cuisson","106",14.3,,"FONTE"
 "Plaques cuisson","603",182.1,,"FONTE"
@@ -1821,33 +1821,33 @@
 "Plaques cuisson","406",15.1,48.7,"MIXTE"
 "Plaques cuisson","505",0,0,"MIXTE"
 "Plaques cuisson","802",4.1,,"MIXTE"
-"Plaques cuisson","106",68.9,,"VITROCÉRAMIQUE"
-"Plaques cuisson","301",45.3,55.1,"VITROCÉRAMIQUE"
-"Plaques cuisson","307",168.3,,"VITROCÉRAMIQUE"
-"Plaques cuisson","309",4.7,2.4,"VITROCÉRAMIQUE"
-"Plaques cuisson","402",57.6,82.1,"VITROCÉRAMIQUE"
-"Plaques cuisson","408",61.8,,"VITROCÉRAMIQUE"
-"Plaques cuisson","509",86,,"VITROCÉRAMIQUE"
-"Plaques cuisson","605",105.5,140.5,"VITROCÉRAMIQUE"
-"Plaques cuisson","607",531.6,601.2,"VITROCÉRAMIQUE"
-"Plaques cuisson","704",162.7,145.2,"VITROCÉRAMIQUE"
-"Plaques cuisson","707",98.9,129.6,"VITROCÉRAMIQUE"
-"Plaques cuisson","905",166.5,151.3,"VITROCÉRAMIQUE"
-"Plaques cuisson","911",489.9,534.3,"VITROCÉRAMIQUE"
-"Plaques cuisson","1003",152.6,169,"VITROCÉRAMIQUE"
-"Plaques cuisson","1007",180.5,182.8,"VITROCÉRAMIQUE"
-"Plaques cuisson","120",,111.8,"VITROCÉRAMIQUE"
-"Plaques cuisson","320",,198.4,"VITROCÉRAMIQUE"
-"Plaques cuisson","922",,46.7,"VITROCÉRAMIQUE"
-"Poêles","103",151.1,134.7,"POELE A GRANULES"
-"Poêles","202",87.4,101.7,"POELE A GRANULES"
-"Poêles","401",75.7,,"POELE A GRANULES"
-"Poêles","508",38.7,26.1,"POELE A GRANULES"
-"Poêles","709",70.5,83.7,"POELE A GRANULES"
-"Poêles","810",147.8,,"POELE A GRANULES"
-"Poêles","209",,34.8,"POELE A GRANULES"
-"Poêles","720",,202.1,"POELE A GRANULES"
-"Poêles","407",38.1,37.1,"POELE PÉTROLE"
+"Plaques cuisson","106",68.9,,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","301",45.3,55.1,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","307",168.3,,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","309",4.7,2.4,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","402",57.6,82.1,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","408",61.8,,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","509",86,,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","605",105.5,140.5,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","607",531.6,601.2,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","704",162.7,145.2,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","707",98.9,129.6,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","905",166.5,151.3,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","911",489.9,534.3,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","1003",152.6,169,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","1007",180.5,182.8,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","120",,111.8,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","320",,198.4,"VITROCÃ‰RAMIQUE"
+"Plaques cuisson","922",,46.7,"VITROCÃ‰RAMIQUE"
+"PoÃªles","103",151.1,134.7,"POELE A GRANULES"
+"PoÃªles","202",87.4,101.7,"POELE A GRANULES"
+"PoÃªles","401",75.7,,"POELE A GRANULES"
+"PoÃªles","508",38.7,26.1,"POELE A GRANULES"
+"PoÃªles","709",70.5,83.7,"POELE A GRANULES"
+"PoÃªles","810",147.8,,"POELE A GRANULES"
+"PoÃªles","209",,34.8,"POELE A GRANULES"
+"PoÃªles","720",,202.1,"POELE A GRANULES"
+"PoÃªles","407",38.1,37.1,"POELE PÃ‰TROLE"
 "Pompes","906",372.6,,"MICROSTATION"
 "Pompes","707",3.4,5.7,"POMPE CAVE"
 "Pompes","706",7.7,10,"POMPE FOSSE SCEPTIQUE"
@@ -1855,140 +1855,140 @@
 "Pompes","620",,3.4,"POMPE JARDIN"
 "Pompes","720",,24.9,"POMPE JARDIN"
 "Pompes","206",,39.9,"POMPE JARDIN"
-"Réfricongélateur","401",451.2,,
-"Réfricongélateur","406",927.7,1001.3,
-"Réfricongélateur","803",920.8,972,
-"Réfricongélateur","1011",389.7,393.4,
-"Réfricongélateur","721",,750.2,
-"Réfricongélateur","101",119.1,123.7,
-"Réfricongélateur","102",252,229.3,
-"Réfricongélateur","103",268.2,256.7,
-"Réfricongélateur","104",172.9,,
-"Réfricongélateur","105",248.4,244.7,
-"Réfricongélateur","106",496.8,,
-"Réfricongélateur","107",268.7,275.7,
-"Réfricongélateur","109",335.4,,
-"Réfricongélateur","110",230.9,232.4,
-"Réfricongélateur","202",320.6,146.6,
-"Réfricongélateur","204",186.7,228.3,
-"Réfricongélateur","205",525.6,554.7,
-"Réfricongélateur","207",218.5,200.5,
-"Réfricongélateur","210",291.1,197.5,
-"Réfricongélateur","302",211.3,210.4,
-"Réfricongélateur","303",385.4,402.2,
-"Réfricongélateur","304",443.2,,
-"Réfricongélateur","305",434.9,239.3,
-"Réfricongélateur","306",496.5,474.6,
-"Réfricongélateur","307",260.5,,
-"Réfricongélateur","308",349.5,328.3,
-"Réfricongélateur","309",534.4,586,
-"Réfricongélateur","310",251.3,254.1,
-"Réfricongélateur","311",398.6,449.1,
-"Réfricongélateur","402",364.2,348.3,
-"Réfricongélateur","403",185.8,173.2,
-"Réfricongélateur","404",203.7,229.6,
-"Réfricongélateur","408",274.1,,
-"Réfricongélateur","409",251.9,277.5,
-"Réfricongélateur","410",335,336.7,
-"Réfricongélateur","501",272.4,,
-"Réfricongélateur","502",771.3,784.6,
-"Réfricongélateur","502",285.1,262.3,
-"Réfricongélateur","503",308.2,354,
-"Réfricongélateur","504",344.5,355.7,
-"Réfricongélateur","505",358.3,437.7,
-"Réfricongélateur","506",247.3,249.7,
-"Réfricongélateur","507",314.1,328.6,
-"Réfricongélateur","508",336.5,375.2,
-"Réfricongélateur","509",681.1,,
-"Réfricongélateur","510",283.4,325,
-"Réfricongélateur","601",441.9,338.6,
-"Réfricongélateur","601",313.9,409,
-"Réfricongélateur","602",178.8,217.2,
-"Réfricongélateur","604",310.6,353.6,
-"Réfricongélateur","605",345.1,325.3,
-"Réfricongélateur","606",300.8,334.3,
-"Réfricongélateur","607",273.5,263.5,
-"Réfricongélateur","608",240,230.5,
-"Réfricongélateur","702",303.1,252,
-"Réfricongélateur","702",44,566.1,
-"Réfricongélateur","703",335.1,390.2,
-"Réfricongélateur","704",369,368.9,
-"Réfricongélateur","706",431.5,354.8,
-"Réfricongélateur","707",302.6,315.5,
-"Réfricongélateur","707",244.3,286.1,
-"Réfricongélateur","709",193.2,199.3,
-"Réfricongélateur","801",590.1,541.9,
-"Réfricongélateur","802",225.6,,
-"Réfricongélateur","806",376.3,389,
-"Réfricongélateur","807",429.8,405.2,
-"Réfricongélateur","808",334,,
-"Réfricongélateur","809",352.6,,
-"Réfricongélateur","810",448.1,416.7,
-"Réfricongélateur","902",308.6,349.1,
-"Réfricongélateur","903",383.7,363.9,
-"Réfricongélateur","904",239,,
-"Réfricongélateur","905",392.1,441.4,
-"Réfricongélateur","906",430,,
-"Réfricongélateur","907",489.3,252,
-"Réfricongélateur","908",302,306.3,
-"Réfricongélateur","909",342,319.6,
-"Réfricongélateur","910",240.5,,
-"Réfricongélateur","911",508.1,513,
-"Réfricongélateur","912",400.2,382.5,
-"Réfricongélateur","1001",296.3,280.2,
-"Réfricongélateur","1002",281.8,278.9,
-"Réfricongélateur","1004",304.7,295,
-"Réfricongélateur","1005",548.8,563,
-"Réfricongélateur","1007",294.7,290.3,
-"Réfricongélateur","1008",303.2,,
-"Réfricongélateur","1009",236.6,231.5,
-"Réfricongélateur","1009",178.5,82.6,
-"Réfricongélateur","120",,340.1,
-"Réfricongélateur","121",,206.1,
-"Réfricongélateur","123",,313.3,
-"Réfricongélateur","420",,206.1,
-"Réfricongélateur","421",,418.2,
-"Réfricongélateur","520",,306.7,
-"Réfricongélateur","620",,399.6,
-"Réfricongélateur","720",,558.6,
-"Réfricongélateur","722",,365.7,
-"Réfricongélateur","820",,266.9,
-"Réfricongélateur","821",,188.6,
-"Réfricongélateur","822",,473.2,
-"Réfricongélateur","823",,351,
-"Réfricongélateur","921",,328.7,
-"Réfricongélateur","922",,478.5,
-"Réfricongélateur","122",,258.7,
-"Réfricongélateur","326",,170.6,
-"Réfrigérateur","107",111.4,,
-"Réfrigérateur","108",209.1,,
-"Réfrigérateur","201",201.4,179.2,
-"Réfrigérateur","203",136.6,118.8,
-"Réfrigérateur","206",108.7,100,
-"Réfrigérateur","208",95.7,,
-"Réfrigérateur","209",157.6,150.2,
-"Réfrigérateur","209",272.9,248,
-"Réfrigérateur","301",142.9,127.8,
-"Réfrigérateur","405",111.1,114.7,
-"Réfrigérateur","406",452.8,399.1,
-"Réfrigérateur","407",195.6,189,
-"Réfrigérateur","602",161.5,158.4,
-"Réfrigérateur","603",155.8,148.4,
-"Réfrigérateur","607",195.4,195.5,
-"Réfrigérateur","701",148.9,,
-"Réfrigérateur","705",124.5,121.7,
-"Réfrigérateur","705",250.4,212.8,
-"Réfrigérateur","708",117.5,,
-"Réfrigérateur","709",148.6,110.3,
-"Réfrigérateur","803",39.8,80.8,
-"Réfrigérateur","804",208.3,206.5,
-"Réfrigérateur","805",170.2,164,
-"Réfrigérateur","901",111.3,148.2,
-"Réfrigérateur","902",153.6,152.4,
-"Réfrigérateur","1003",113.5,104,
-"Réfrigérateur","1006",210.3,222.9,
-"Réfrigérateur","1010",137.8,143.7,
-"Réfrigérateur","320",,136.5,
+"RÃ©fricongÃ©lateur","401",451.2,,
+"RÃ©fricongÃ©lateur","406",927.7,1001.3,
+"RÃ©fricongÃ©lateur","803",920.8,972,
+"RÃ©fricongÃ©lateur","1011",389.7,393.4,
+"RÃ©fricongÃ©lateur","721",,750.2,
+"RÃ©fricongÃ©lateur","101",119.1,123.7,
+"RÃ©fricongÃ©lateur","102",252,229.3,
+"RÃ©fricongÃ©lateur","103",268.2,256.7,
+"RÃ©fricongÃ©lateur","104",172.9,,
+"RÃ©fricongÃ©lateur","105",248.4,244.7,
+"RÃ©fricongÃ©lateur","106",496.8,,
+"RÃ©fricongÃ©lateur","107",268.7,275.7,
+"RÃ©fricongÃ©lateur","109",335.4,,
+"RÃ©fricongÃ©lateur","110",230.9,232.4,
+"RÃ©fricongÃ©lateur","202",320.6,146.6,
+"RÃ©fricongÃ©lateur","204",186.7,228.3,
+"RÃ©fricongÃ©lateur","205",525.6,554.7,
+"RÃ©fricongÃ©lateur","207",218.5,200.5,
+"RÃ©fricongÃ©lateur","210",291.1,197.5,
+"RÃ©fricongÃ©lateur","302",211.3,210.4,
+"RÃ©fricongÃ©lateur","303",385.4,402.2,
+"RÃ©fricongÃ©lateur","304",443.2,,
+"RÃ©fricongÃ©lateur","305",434.9,239.3,
+"RÃ©fricongÃ©lateur","306",496.5,474.6,
+"RÃ©fricongÃ©lateur","307",260.5,,
+"RÃ©fricongÃ©lateur","308",349.5,328.3,
+"RÃ©fricongÃ©lateur","309",534.4,586,
+"RÃ©fricongÃ©lateur","310",251.3,254.1,
+"RÃ©fricongÃ©lateur","311",398.6,449.1,
+"RÃ©fricongÃ©lateur","402",364.2,348.3,
+"RÃ©fricongÃ©lateur","403",185.8,173.2,
+"RÃ©fricongÃ©lateur","404",203.7,229.6,
+"RÃ©fricongÃ©lateur","408",274.1,,
+"RÃ©fricongÃ©lateur","409",251.9,277.5,
+"RÃ©fricongÃ©lateur","410",335,336.7,
+"RÃ©fricongÃ©lateur","501",272.4,,
+"RÃ©fricongÃ©lateur","502",771.3,784.6,
+"RÃ©fricongÃ©lateur","502",285.1,262.3,
+"RÃ©fricongÃ©lateur","503",308.2,354,
+"RÃ©fricongÃ©lateur","504",344.5,355.7,
+"RÃ©fricongÃ©lateur","505",358.3,437.7,
+"RÃ©fricongÃ©lateur","506",247.3,249.7,
+"RÃ©fricongÃ©lateur","507",314.1,328.6,
+"RÃ©fricongÃ©lateur","508",336.5,375.2,
+"RÃ©fricongÃ©lateur","509",681.1,,
+"RÃ©fricongÃ©lateur","510",283.4,325,
+"RÃ©fricongÃ©lateur","601",441.9,338.6,
+"RÃ©fricongÃ©lateur","601",313.9,409,
+"RÃ©fricongÃ©lateur","602",178.8,217.2,
+"RÃ©fricongÃ©lateur","604",310.6,353.6,
+"RÃ©fricongÃ©lateur","605",345.1,325.3,
+"RÃ©fricongÃ©lateur","606",300.8,334.3,
+"RÃ©fricongÃ©lateur","607",273.5,263.5,
+"RÃ©fricongÃ©lateur","608",240,230.5,
+"RÃ©fricongÃ©lateur","702",303.1,252,
+"RÃ©fricongÃ©lateur","702",44,566.1,
+"RÃ©fricongÃ©lateur","703",335.1,390.2,
+"RÃ©fricongÃ©lateur","704",369,368.9,
+"RÃ©fricongÃ©lateur","706",431.5,354.8,
+"RÃ©fricongÃ©lateur","707",302.6,315.5,
+"RÃ©fricongÃ©lateur","707",244.3,286.1,
+"RÃ©fricongÃ©lateur","709",193.2,199.3,
+"RÃ©fricongÃ©lateur","801",590.1,541.9,
+"RÃ©fricongÃ©lateur","802",225.6,,
+"RÃ©fricongÃ©lateur","806",376.3,389,
+"RÃ©fricongÃ©lateur","807",429.8,405.2,
+"RÃ©fricongÃ©lateur","808",334,,
+"RÃ©fricongÃ©lateur","809",352.6,,
+"RÃ©fricongÃ©lateur","810",448.1,416.7,
+"RÃ©fricongÃ©lateur","902",308.6,349.1,
+"RÃ©fricongÃ©lateur","903",383.7,363.9,
+"RÃ©fricongÃ©lateur","904",239,,
+"RÃ©fricongÃ©lateur","905",392.1,441.4,
+"RÃ©fricongÃ©lateur","906",430,,
+"RÃ©fricongÃ©lateur","907",489.3,252,
+"RÃ©fricongÃ©lateur","908",302,306.3,
+"RÃ©fricongÃ©lateur","909",342,319.6,
+"RÃ©fricongÃ©lateur","910",240.5,,
+"RÃ©fricongÃ©lateur","911",508.1,513,
+"RÃ©fricongÃ©lateur","912",400.2,382.5,
+"RÃ©fricongÃ©lateur","1001",296.3,280.2,
+"RÃ©fricongÃ©lateur","1002",281.8,278.9,
+"RÃ©fricongÃ©lateur","1004",304.7,295,
+"RÃ©fricongÃ©lateur","1005",548.8,563,
+"RÃ©fricongÃ©lateur","1007",294.7,290.3,
+"RÃ©fricongÃ©lateur","1008",303.2,,
+"RÃ©fricongÃ©lateur","1009",236.6,231.5,
+"RÃ©fricongÃ©lateur","1009",178.5,82.6,
+"RÃ©fricongÃ©lateur","120",,340.1,
+"RÃ©fricongÃ©lateur","121",,206.1,
+"RÃ©fricongÃ©lateur","123",,313.3,
+"RÃ©fricongÃ©lateur","420",,206.1,
+"RÃ©fricongÃ©lateur","421",,418.2,
+"RÃ©fricongÃ©lateur","520",,306.7,
+"RÃ©fricongÃ©lateur","620",,399.6,
+"RÃ©fricongÃ©lateur","720",,558.6,
+"RÃ©fricongÃ©lateur","722",,365.7,
+"RÃ©fricongÃ©lateur","820",,266.9,
+"RÃ©fricongÃ©lateur","821",,188.6,
+"RÃ©fricongÃ©lateur","822",,473.2,
+"RÃ©fricongÃ©lateur","823",,351,
+"RÃ©fricongÃ©lateur","921",,328.7,
+"RÃ©fricongÃ©lateur","922",,478.5,
+"RÃ©fricongÃ©lateur","122",,258.7,
+"RÃ©fricongÃ©lateur","326",,170.6,
+"RÃ©frigÃ©rateur","107",111.4,,
+"RÃ©frigÃ©rateur","108",209.1,,
+"RÃ©frigÃ©rateur","201",201.4,179.2,
+"RÃ©frigÃ©rateur","203",136.6,118.8,
+"RÃ©frigÃ©rateur","206",108.7,100,
+"RÃ©frigÃ©rateur","208",95.7,,
+"RÃ©frigÃ©rateur","209",157.6,150.2,
+"RÃ©frigÃ©rateur","209",272.9,248,
+"RÃ©frigÃ©rateur","301",142.9,127.8,
+"RÃ©frigÃ©rateur","405",111.1,114.7,
+"RÃ©frigÃ©rateur","406",452.8,399.1,
+"RÃ©frigÃ©rateur","407",195.6,189,
+"RÃ©frigÃ©rateur","602",161.5,158.4,
+"RÃ©frigÃ©rateur","603",155.8,148.4,
+"RÃ©frigÃ©rateur","607",195.4,195.5,
+"RÃ©frigÃ©rateur","701",148.9,,
+"RÃ©frigÃ©rateur","705",124.5,121.7,
+"RÃ©frigÃ©rateur","705",250.4,212.8,
+"RÃ©frigÃ©rateur","708",117.5,,
+"RÃ©frigÃ©rateur","709",148.6,110.3,
+"RÃ©frigÃ©rateur","803",39.8,80.8,
+"RÃ©frigÃ©rateur","804",208.3,206.5,
+"RÃ©frigÃ©rateur","805",170.2,164,
+"RÃ©frigÃ©rateur","901",111.3,148.2,
+"RÃ©frigÃ©rateur","902",153.6,152.4,
+"RÃ©frigÃ©rateur","1003",113.5,104,
+"RÃ©frigÃ©rateur","1006",210.3,222.9,
+"RÃ©frigÃ©rateur","1010",137.8,143.7,
+"RÃ©frigÃ©rateur","320",,136.5,
 "Repassage","210",0,0,"CENTRALE VAPEUR DE REPASSAGE"
 "Repassage","302",33.7,27.9,"CENTRALE VAPEUR DE REPASSAGE"
 "Repassage","303",38.3,34.4,"CENTRALE VAPEUR DE REPASSAGE"
@@ -2007,203 +2007,203 @@
 "Repassage","722",,16.5,"CENTRALE VAPEUR DE REPASSAGE"
 "Repassage","902",,37.7,"CENTRALE VAPEUR DE REPASSAGE"
 "Repassage","420",,2.7,"CENTRALE VAPEUR DE REPASSAGE"
-"Repassage","403",42,13.7,"FER À REPASSER"
-"Repassage","705",45,40,"FER À REPASSER"
-"Santé","201",104.8,,"APNESOMMEIL"
-"Santé","208",52.4,,"APNESOMMEIL"
-"Santé","309",40.4,81.1,"APNESOMMEIL"
-"Santé","307",34.2,,"APNESOMMEIL"
-"Santé","407",25,25,"APNESOMMEIL"
-"Santé","121",,25,"APNESOMMEIL"
-"Santé","403",46.5,,"CHARGEUR FAUTEUIL ROULANT"
-"Sèche linge","607",782.6,549.8,"CONDENSATION"
-"Sèche linge","701",562.9,,"CONDENSATION"
-"Sèche linge","809",468.6,,"CONDENSATION"
-"Sèche linge","304",463.4,,"CONDENSATION"
-"Sèche linge","802",451.3,,"CONDENSATION"
-"Sèche linge","311",448.6,454,"CONDENSATION"
-"Sèche linge","1004",405.5,411.8,"CONDENSATION"
-"Sèche linge","105",268.3,235.9,"CONDENSATION"
-"Sèche linge","508",259.8,288.3,"CONDENSATION"
-"Sèche linge","903",234.7,235.2,"CONDENSATION"
-"Sèche linge","210",226.1,357.6,"CONDENSATION"
-"Sèche linge","502",218.4,359.5,"CONDENSATION"
-"Sèche linge","401",212.6,,"CONDENSATION"
-"Sèche linge","106",188.5,,"CONDENSATION"
-"Sèche linge","807",113.9,136,"CONDENSATION"
-"Sèche linge","303",108.5,36.2,"CONDENSATION"
-"Sèche linge","705",99.5,35.6,"CONDENSATION"
-"Sèche linge","604",83.2,67,"CONDENSATION"
-"Sèche linge","310",7.7,13.4,"CONDENSATION"
-"Sèche linge","720",,54.5,"CONDENSATION"
-"Sèche linge","820",,31,"CONDENSATION"
-"Sèche linge","206",1123.2,1267.3,"EVACUATION"
-"Sèche linge","1008",562.2,,"EVACUATION"
-"Sèche linge","1011",485.4,365.8,"EVACUATION"
-"Sèche linge","1009",376,455.6,"EVACUATION"
-"Sèche linge","808",171.2,,"EVACUATION"
-"Sèche linge","1010",146.2,111,"EVACUATION"
-"Sèche linge","702",141.2,179.7,"EVACUATION"
-"Sèche linge","108",25.5,,"EVACUATION"
-"Sèche linge","902",287.6,353.8,"POMPE À CHALEUR"
-"Sèche linge","803",228.8,230.4,"POMPE À CHALEUR"
-"Sèche linge","406",119.7,128.9,"POMPE À CHALEUR"
-"Sèche linge","104",53.9,,"POMPE À CHALEUR"
-"Sécurité","410",224.2,39.8,"CAMÉRA WIFI"
-"Sécurité","709",96.4,101.8,"PORTE OU PORTAIL AUTOMATIQUE"
-"Sécurité","803",115.7,115.7,"PORTE OU PORTAIL AUTOMATIQUE"
-"Sécurité","1006",53.4,51.5,"PORTE OU PORTAIL AUTOMATIQUE"
-"Sécurité","1007",28.7,27.1,"PORTE OU PORTAIL AUTOMATIQUE"
-"Sécurité","1007",40.2,42.1,"VISIOPHONE"
-"Sécurité","410",39.9,40.9,"VOLETS ROULANTS"
-"Sécurité","604",18.4,16.9,"VOLETS ROULANTS"
-"Sécurité","608",23.4,23,"VOLETS ROULANTS"
-"Sécurité","708",5.8,,"VOLETS ROULANTS"
-"Sécurité","910",37.5,,"VOLETS ROULANTS"
-"Sécurité","1007",2.4,3.1,"VOLETS ROULANTS"
-"Sécurité","721",,1.3,"VOLETS ROULANTS"
-"Sécurité","820",,11.1,"VOLETS ROULANTS"
-"Sécurité","823",,12.4,"VOLETS ROULANTS"
+"Repassage","403",42,13.7,"FER Ã€ REPASSER"
+"Repassage","705",45,40,"FER Ã€ REPASSER"
+"SantÃ©","201",104.8,,"APNESOMMEIL"
+"SantÃ©","208",52.4,,"APNESOMMEIL"
+"SantÃ©","309",40.4,81.1,"APNESOMMEIL"
+"SantÃ©","307",34.2,,"APNESOMMEIL"
+"SantÃ©","407",25,25,"APNESOMMEIL"
+"SantÃ©","121",,25,"APNESOMMEIL"
+"SantÃ©","403",46.5,,"CHARGEUR FAUTEUIL ROULANT"
+"SÃ¨che linge","607",782.6,549.8,"CONDENSATION"
+"SÃ¨che linge","701",562.9,,"CONDENSATION"
+"SÃ¨che linge","809",468.6,,"CONDENSATION"
+"SÃ¨che linge","304",463.4,,"CONDENSATION"
+"SÃ¨che linge","802",451.3,,"CONDENSATION"
+"SÃ¨che linge","311",448.6,454,"CONDENSATION"
+"SÃ¨che linge","1004",405.5,411.8,"CONDENSATION"
+"SÃ¨che linge","105",268.3,235.9,"CONDENSATION"
+"SÃ¨che linge","508",259.8,288.3,"CONDENSATION"
+"SÃ¨che linge","903",234.7,235.2,"CONDENSATION"
+"SÃ¨che linge","210",226.1,357.6,"CONDENSATION"
+"SÃ¨che linge","502",218.4,359.5,"CONDENSATION"
+"SÃ¨che linge","401",212.6,,"CONDENSATION"
+"SÃ¨che linge","106",188.5,,"CONDENSATION"
+"SÃ¨che linge","807",113.9,136,"CONDENSATION"
+"SÃ¨che linge","303",108.5,36.2,"CONDENSATION"
+"SÃ¨che linge","705",99.5,35.6,"CONDENSATION"
+"SÃ¨che linge","604",83.2,67,"CONDENSATION"
+"SÃ¨che linge","310",7.7,13.4,"CONDENSATION"
+"SÃ¨che linge","720",,54.5,"CONDENSATION"
+"SÃ¨che linge","820",,31,"CONDENSATION"
+"SÃ¨che linge","206",1123.2,1267.3,"EVACUATION"
+"SÃ¨che linge","1008",562.2,,"EVACUATION"
+"SÃ¨che linge","1011",485.4,365.8,"EVACUATION"
+"SÃ¨che linge","1009",376,455.6,"EVACUATION"
+"SÃ¨che linge","808",171.2,,"EVACUATION"
+"SÃ¨che linge","1010",146.2,111,"EVACUATION"
+"SÃ¨che linge","702",141.2,179.7,"EVACUATION"
+"SÃ¨che linge","108",25.5,,"EVACUATION"
+"SÃ¨che linge","902",287.6,353.8,"POMPE Ã€ CHALEUR"
+"SÃ¨che linge","803",228.8,230.4,"POMPE Ã€ CHALEUR"
+"SÃ¨che linge","406",119.7,128.9,"POMPE Ã€ CHALEUR"
+"SÃ¨che linge","104",53.9,,"POMPE Ã€ CHALEUR"
+"SÃ©curitÃ©","410",224.2,39.8,"CAMÃ‰RA WIFI"
+"SÃ©curitÃ©","709",96.4,101.8,"PORTE OU PORTAIL AUTOMATIQUE"
+"SÃ©curitÃ©","803",115.7,115.7,"PORTE OU PORTAIL AUTOMATIQUE"
+"SÃ©curitÃ©","1006",53.4,51.5,"PORTE OU PORTAIL AUTOMATIQUE"
+"SÃ©curitÃ©","1007",28.7,27.1,"PORTE OU PORTAIL AUTOMATIQUE"
+"SÃ©curitÃ©","1007",40.2,42.1,"VISIOPHONE"
+"SÃ©curitÃ©","410",39.9,40.9,"VOLETS ROULANTS"
+"SÃ©curitÃ©","604",18.4,16.9,"VOLETS ROULANTS"
+"SÃ©curitÃ©","608",23.4,23,"VOLETS ROULANTS"
+"SÃ©curitÃ©","708",5.8,,"VOLETS ROULANTS"
+"SÃ©curitÃ©","910",37.5,,"VOLETS ROULANTS"
+"SÃ©curitÃ©","1007",2.4,3.1,"VOLETS ROULANTS"
+"SÃ©curitÃ©","721",,1.3,"VOLETS ROULANTS"
+"SÃ©curitÃ©","820",,11.1,"VOLETS ROULANTS"
+"SÃ©curitÃ©","823",,12.4,"VOLETS ROULANTS"
 "Tablettes_smartph","408",2.9,,"SMART PHONE"
 "Tablettes_smartph","107",,8.6,"SMART PHONE"
 "Tablettes_smartph","404",5.6,10.4,"TABLETTE"
 "Tablettes_smartph","405",3.9,1.4,"TABLETTE"
 "Tablettes_smartph","409",4,,"TABLETTE"
-"Téléviseurs","101",55.2,115.7,"PRINCIPAL"
-"Téléviseurs","102",311,36.6,"PRINCIPAL"
-"Téléviseurs","103",274.3,314.7,"PRINCIPAL"
-"Téléviseurs","104",297.3,,"PRINCIPAL"
-"Téléviseurs","105",158.8,152.6,"PRINCIPAL"
-"Téléviseurs","106",232.4,,"PRINCIPAL"
-"Téléviseurs","107",0,7.5,"PRINCIPAL"
-"Téléviseurs","109",175.2,,"PRINCIPAL"
-"Téléviseurs","110",162.5,150.2,"PRINCIPAL"
-"Téléviseurs","121",,42.3,"PRINCIPAL"
-"Téléviseurs","122",,78.1,"PRINCIPAL"
-"Téléviseurs","123",,153.9,"PRINCIPAL"
-"Téléviseurs","201",147.6,117.6,"PRINCIPAL"
-"Téléviseurs","202",182.4,75.9,"PRINCIPAL"
-"Téléviseurs","203",68.3,86.5,"PRINCIPAL"
-"Téléviseurs","204",36.7,75.3,"PRINCIPAL"
-"Téléviseurs","205",214.8,228.8,"PRINCIPAL"
-"Téléviseurs","206",307.8,287.4,"PRINCIPAL"
-"Téléviseurs","207",180,205.5,"PRINCIPAL"
-"Téléviseurs","209",277,248.9,"PRINCIPAL"
-"Téléviseurs","210",144.1,141.4,"PRINCIPAL"
-"Téléviseurs","301",393,238.9,"PRINCIPAL"
-"Téléviseurs","302",169.5,190.5,"PRINCIPAL"
-"Téléviseurs","303",,147.4,"PRINCIPAL"
-"Téléviseurs","306",724.3,741.5,"PRINCIPAL"
-"Téléviseurs","307",72.1,,"PRINCIPAL"
-"Téléviseurs","308",75.5,101.6,"PRINCIPAL"
-"Téléviseurs","310",64.5,87.4,"PRINCIPAL"
-"Téléviseurs","311",350.8,345.2,"PRINCIPAL"
-"Téléviseurs","320",,189.9,"PRINCIPAL"
-"Téléviseurs","326",,260,"PRINCIPAL"
-"Téléviseurs","401",1143,,"PRINCIPAL"
-"Téléviseurs","402",108.6,236.1,"PRINCIPAL"
-"Téléviseurs","403",142.8,77.4,"PRINCIPAL"
-"Téléviseurs","404",365,488.9,"PRINCIPAL"
-"Téléviseurs","405",437.6,88,"PRINCIPAL"
-"Téléviseurs","406",95.5,167.5,"PRINCIPAL"
-"Téléviseurs","408",68.4,,"PRINCIPAL"
-"Téléviseurs","410",118.2,102.6,"PRINCIPAL"
-"Téléviseurs","420",,69.4,"PRINCIPAL"
-"Téléviseurs","421",,112.2,"PRINCIPAL"
-"Téléviseurs","501",98.5,,"PRINCIPAL"
-"Téléviseurs","502",391.7,531,"PRINCIPAL"
-"Téléviseurs","503",83.9,121.1,"PRINCIPAL"
-"Téléviseurs","505",130.8,168.6,"PRINCIPAL"
-"Téléviseurs","506",156.7,158.4,"PRINCIPAL"
-"Téléviseurs","507",82.1,82.8,"PRINCIPAL"
-"Téléviseurs","508",242.2,177.5,"PRINCIPAL"
-"Téléviseurs","509",198.2,,"PRINCIPAL"
-"Téléviseurs","510",105.9,95.2,"PRINCIPAL"
-"Téléviseurs","601",54.5,174.5,"PRINCIPAL"
-"Téléviseurs","602",207.8,158.7,"PRINCIPAL"
-"Téléviseurs","603",66.8,200.8,"PRINCIPAL"
-"Téléviseurs","604",27.6,46.4,"PRINCIPAL"
-"Téléviseurs","605",136.5,184.2,"PRINCIPAL"
-"Téléviseurs","606",92.7,130.1,"PRINCIPAL"
-"Téléviseurs","607",145.7,88.3,"PRINCIPAL"
-"Téléviseurs","608",62,78,"PRINCIPAL"
-"Téléviseurs","620",,321.3,"PRINCIPAL"
-"Téléviseurs","701",177.9,,"PRINCIPAL"
-"Téléviseurs","702",151.8,180.8,"PRINCIPAL"
-"Téléviseurs","703",33.2,42.9,"PRINCIPAL"
-"Téléviseurs","704",334.7,346,"PRINCIPAL"
-"Téléviseurs","705",63.7,55.9,"PRINCIPAL"
-"Téléviseurs","706",634.2,307.5,"PRINCIPAL"
-"Téléviseurs","707",112,104,"PRINCIPAL"
-"Téléviseurs","708",107.9,,"PRINCIPAL"
-"Téléviseurs","709",86,102.3,"PRINCIPAL"
-"Téléviseurs","720",,104.7,"PRINCIPAL"
-"Téléviseurs","721",,150.6,"PRINCIPAL"
-"Téléviseurs","722",,221.9,"PRINCIPAL"
-"Téléviseurs","801",139.2,102.7,"PRINCIPAL"
-"Téléviseurs","802",237.1,,"PRINCIPAL"
-"Téléviseurs","803",295.9,346.8,"PRINCIPAL"
-"Téléviseurs","804",412,409.8,"PRINCIPAL"
-"Téléviseurs","805",118.5,112.4,"PRINCIPAL"
-"Téléviseurs","806",76.1,124.1,"PRINCIPAL"
-"Téléviseurs","807",184.2,235.5,"PRINCIPAL"
-"Téléviseurs","808",328.5,,"PRINCIPAL"
-"Téléviseurs","809",24.1,,"PRINCIPAL"
-"Téléviseurs","810",131,135.5,"PRINCIPAL"
-"Téléviseurs","820",,100.3,"PRINCIPAL"
-"Téléviseurs","821",,84.3,"PRINCIPAL"
-"Téléviseurs","822",,91.9,"PRINCIPAL"
-"Téléviseurs","823",,135.3,"PRINCIPAL"
-"Téléviseurs","901",3.2,5.4,"PRINCIPAL"
-"Téléviseurs","902",201.5,250.1,"PRINCIPAL"
-"Téléviseurs","903",85.4,78,"PRINCIPAL"
-"Téléviseurs","904",279.6,,"PRINCIPAL"
-"Téléviseurs","905",388.1,398.5,"PRINCIPAL"
-"Téléviseurs","907",258,195.7,"PRINCIPAL"
-"Téléviseurs","908",115.4,118.1,"PRINCIPAL"
-"Téléviseurs","909",26.2,30.6,"PRINCIPAL"
-"Téléviseurs","910",116.1,,"PRINCIPAL"
-"Téléviseurs","911",20.1,26.2,"PRINCIPAL"
-"Téléviseurs","912",,248.1,"PRINCIPAL"
-"Téléviseurs","921",,13.4,"PRINCIPAL"
-"Téléviseurs","922",,275.7,"PRINCIPAL"
-"Téléviseurs","1001",124.8,103.8,"PRINCIPAL"
-"Téléviseurs","1002",24.9,30.3,"PRINCIPAL"
-"Téléviseurs","1003",104.5,150,"PRINCIPAL"
-"Téléviseurs","1004",47.2,39.9,"PRINCIPAL"
-"Téléviseurs","1005",50.8,44.5,"PRINCIPAL"
-"Téléviseurs","1006",208.6,195.2,"PRINCIPAL"
-"Téléviseurs","1007",130,124,"PRINCIPAL"
-"Téléviseurs","1008",102.5,,"PRINCIPAL"
-"Téléviseurs","1009",132.6,173.7,"PRINCIPAL"
-"Téléviseurs","1010",354.9,434.3,"PRINCIPAL"
-"Téléviseurs","1011",553.7,364.3,"PRINCIPAL"
-"Téléviseurs","201",37.6,33.6,"SECONDAIRE"
-"Téléviseurs","201",13.9,10.5,"SECONDAIRE"
-"Téléviseurs","202",49,34.2,"SECONDAIRE"
-"Téléviseurs","205",22.5,26.6,"SECONDAIRE"
-"Téléviseurs","210",132.7,75.4,"SECONDAIRE"
-"Téléviseurs","301",5.1,5.2,"SECONDAIRE"
-"Téléviseurs","302",33.6,25.5,"SECONDAIRE"
-"Téléviseurs","303",153.3,133.4,"SECONDAIRE"
-"Téléviseurs","406",24.6,23.2,"SECONDAIRE"
-"Téléviseurs","406",0,40,"SECONDAIRE"
-"Téléviseurs","501",81.6,,"SECONDAIRE"
-"Téléviseurs","503",230.5,80.5,"SECONDAIRE"
-"Téléviseurs","507",10.4,9,"SECONDAIRE"
-"Téléviseurs","510",3.5,4.7,"SECONDAIRE"
-"Téléviseurs","602",380.6,448.4,"SECONDAIRE"
-"Téléviseurs","602",47.1,32.4,"SECONDAIRE"
-"Téléviseurs","705",193.6,117.5,"SECONDAIRE"
-"Téléviseurs","708",0.7,,"SECONDAIRE"
-"Téléviseurs","722",,98.7,"SECONDAIRE"
-"Téléviseurs","806",62,53.9,"SECONDAIRE"
-"Téléviseurs","823",,35.8,"SECONDAIRE"
-"Téléviseurs","907",48.6,43.7,"SECONDAIRE"
-"Téléviseurs","910",3.4,,"SECONDAIRE"
-"Téléviseurs","912",73.6,28.6,"SECONDAIRE"
-"Téléviseurs","1006",34.8,42.7,"SECONDAIRE"
-"Téléviseurs","1011",11.3,21.8,"SECONDAIRE"
+"TÃ©lÃ©viseurs","101",55.2,115.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","102",311,36.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","103",274.3,314.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","104",297.3,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","105",158.8,152.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","106",232.4,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","107",0,7.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","109",175.2,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","110",162.5,150.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","121",,42.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","122",,78.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","123",,153.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","201",147.6,117.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","202",182.4,75.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","203",68.3,86.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","204",36.7,75.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","205",214.8,228.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","206",307.8,287.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","207",180,205.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","209",277,248.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","210",144.1,141.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","301",393,238.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","302",169.5,190.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","303",,147.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","306",724.3,741.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","307",72.1,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","308",75.5,101.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","310",64.5,87.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","311",350.8,345.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","320",,189.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","326",,260,"PRINCIPAL"
+"TÃ©lÃ©viseurs","401",1143,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","402",108.6,236.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","403",142.8,77.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","404",365,488.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","405",437.6,88,"PRINCIPAL"
+"TÃ©lÃ©viseurs","406",95.5,167.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","408",68.4,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","410",118.2,102.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","420",,69.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","421",,112.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","501",98.5,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","502",391.7,531,"PRINCIPAL"
+"TÃ©lÃ©viseurs","503",83.9,121.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","505",130.8,168.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","506",156.7,158.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","507",82.1,82.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","508",242.2,177.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","509",198.2,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","510",105.9,95.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","601",54.5,174.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","602",207.8,158.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","603",66.8,200.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","604",27.6,46.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","605",136.5,184.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","606",92.7,130.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","607",145.7,88.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","608",62,78,"PRINCIPAL"
+"TÃ©lÃ©viseurs","620",,321.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","701",177.9,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","702",151.8,180.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","703",33.2,42.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","704",334.7,346,"PRINCIPAL"
+"TÃ©lÃ©viseurs","705",63.7,55.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","706",634.2,307.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","707",112,104,"PRINCIPAL"
+"TÃ©lÃ©viseurs","708",107.9,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","709",86,102.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","720",,104.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","721",,150.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","722",,221.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","801",139.2,102.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","802",237.1,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","803",295.9,346.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","804",412,409.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","805",118.5,112.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","806",76.1,124.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","807",184.2,235.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","808",328.5,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","809",24.1,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","810",131,135.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","820",,100.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","821",,84.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","822",,91.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","823",,135.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","901",3.2,5.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","902",201.5,250.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","903",85.4,78,"PRINCIPAL"
+"TÃ©lÃ©viseurs","904",279.6,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","905",388.1,398.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","907",258,195.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","908",115.4,118.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","909",26.2,30.6,"PRINCIPAL"
+"TÃ©lÃ©viseurs","910",116.1,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","911",20.1,26.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","912",,248.1,"PRINCIPAL"
+"TÃ©lÃ©viseurs","921",,13.4,"PRINCIPAL"
+"TÃ©lÃ©viseurs","922",,275.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1001",124.8,103.8,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1002",24.9,30.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1003",104.5,150,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1004",47.2,39.9,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1005",50.8,44.5,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1006",208.6,195.2,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1007",130,124,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1008",102.5,,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1009",132.6,173.7,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1010",354.9,434.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","1011",553.7,364.3,"PRINCIPAL"
+"TÃ©lÃ©viseurs","201",37.6,33.6,"SECONDAIRE"
+"TÃ©lÃ©viseurs","201",13.9,10.5,"SECONDAIRE"
+"TÃ©lÃ©viseurs","202",49,34.2,"SECONDAIRE"
+"TÃ©lÃ©viseurs","205",22.5,26.6,"SECONDAIRE"
+"TÃ©lÃ©viseurs","210",132.7,75.4,"SECONDAIRE"
+"TÃ©lÃ©viseurs","301",5.1,5.2,"SECONDAIRE"
+"TÃ©lÃ©viseurs","302",33.6,25.5,"SECONDAIRE"
+"TÃ©lÃ©viseurs","303",153.3,133.4,"SECONDAIRE"
+"TÃ©lÃ©viseurs","406",24.6,23.2,"SECONDAIRE"
+"TÃ©lÃ©viseurs","406",0,40,"SECONDAIRE"
+"TÃ©lÃ©viseurs","501",81.6,,"SECONDAIRE"
+"TÃ©lÃ©viseurs","503",230.5,80.5,"SECONDAIRE"
+"TÃ©lÃ©viseurs","507",10.4,9,"SECONDAIRE"
+"TÃ©lÃ©viseurs","510",3.5,4.7,"SECONDAIRE"
+"TÃ©lÃ©viseurs","602",380.6,448.4,"SECONDAIRE"
+"TÃ©lÃ©viseurs","602",47.1,32.4,"SECONDAIRE"
+"TÃ©lÃ©viseurs","705",193.6,117.5,"SECONDAIRE"
+"TÃ©lÃ©viseurs","708",0.7,,"SECONDAIRE"
+"TÃ©lÃ©viseurs","722",,98.7,"SECONDAIRE"
+"TÃ©lÃ©viseurs","806",62,53.9,"SECONDAIRE"
+"TÃ©lÃ©viseurs","823",,35.8,"SECONDAIRE"
+"TÃ©lÃ©viseurs","907",48.6,43.7,"SECONDAIRE"
+"TÃ©lÃ©viseurs","910",3.4,,"SECONDAIRE"
+"TÃ©lÃ©viseurs","912",73.6,28.6,"SECONDAIRE"
+"TÃ©lÃ©viseurs","1006",34.8,42.7,"SECONDAIRE"
+"TÃ©lÃ©viseurs","1011",11.3,21.8,"SECONDAIRE"
 "Tondeuse","204",6.2,3.3,
 "Tondeuse","1005",5.1,1.1,
 "Tondeuse","821",,0.9,
