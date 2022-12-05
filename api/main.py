@@ -1,22 +1,23 @@
 from fastapi import FastAPI
+from sqlalchemy.dialects.postgresql import psycopg2
 
 app = FastAPI()
-
-
-"""@app.get("/")
-async def root():
-    return {"message": "Hello World"}
-
-
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}"""
 
 import requests
 import json
 import pandas as pd
 import csv
 import os
+import pyodbc
+
+
+server = 'conspy.cyqm4cgvogvg.eu-west-3.rds.amazonaws.com'
+database = 'ConsPy'
+username = 'ConsPy'
+password = 'JWC616BuObW1boP0gmQL'
+port = 5432
+
+# aller sur https://docs.aws.amazon.com/fr_fr/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.Connecting.Python.html
 
 
 response_API = requests.get('https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv')
@@ -54,3 +55,13 @@ os.remove('temp.csv')
 
 
 aaa=1
+
+
+@app.get("/")
+async def root():
+    return {"message": "Hello World"}
+
+
+@app.get("/hello/{name}")
+async def say_hello(name: str):
+    return {"message": f"Hello {name}"}
