@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b845bb8-0838-4daa-8fbf-80969bbcba18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonConspy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/temp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temgsp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonConspy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonConspy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/temp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/api/temp.csv" afterDir="false" />
     </list>
     <list id="5a6ca35b-89db-4785-b15b-6db6daee2559" name="Changes by mxdel" comment="">
       <change beforePath="$PROJECT_DIR$/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
@@ -28,19 +31,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/api/main.py">
+      <ranges>
+        <range start1="3" end1="3" start2="3" end2="4" changelist="9b845bb8-0838-4daa-8fbf-80969bbcba18" />
+        <range start1="55" end1="56" start2="56" end2="57" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
+        <range start1="60" end1="61" start2="61" end2="62" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
+        <range start1="72" end1="72" start2="73" end2="74" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
+        <range start1="73" end1="74" start2="75" end2="75" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
+        <range start1="76" end1="76" start2="77" end2="78" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
+        <range start1="78" end1="81" start2="80" end2="88" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HiR4OEAUy01YOXJOpgsHAr6Nl4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "last_opened_file_path": "C:/Users/32len/Downloads/pythonConspy/api/main.py"
@@ -72,6 +90,7 @@
       <updated>1668765725956</updated>
       <workItem from="1668765736136" duration="7768000" />
       <workItem from="1668781828466" duration="2107000" />
+      <workItem from="1670247233849" duration="2824000" />
     </task>
     <servers />
   </component>
@@ -89,19 +108,27 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/api/main.py</url>
-          <line>51</line>
+          <line>61</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/api/main.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonConspy$pythonConspy.coverage" NAME="pythonConspy Coverage Results" MODIFIED="1668778651697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/pythonConspy$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1668783514985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pythonConspy$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1670249689701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

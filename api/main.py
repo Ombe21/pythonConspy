@@ -2,6 +2,7 @@ from fastapi import FastAPI
 import csv
 from fastapi import UploadFile
 
+
 app = FastAPI()
 
 import requests
@@ -53,12 +54,12 @@ def csv_to_json(csvFilePath):
 print(response_API.status_code)
 data = response_API.text
 
-f = open('temp.csv', 'a')
+f = open('api/temp.csv', 'a')
 
 # f.write(data)  #this create the database
 f.close()
 
-data = csv_to_json('temp.csv', 'temp.json')
+data = csv_to_json('api/temp.csv', 'api/temp.json')
 
 # print(data['wind_cons_change_pct'])
 
@@ -70,15 +71,21 @@ a = 1
 @app.post("/add/csv")
 async def addToDbCsv(toAddCsv: UploadFile):
     line = toAddCsv.file.readline()
+    f = open('api/temp.csv', 'a')
     while (line != ''):
-        f = open('temp.csv', 'a')
         f.write(line)
         line = toAddCsv.file.readline()
+    f.close()
 
 
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}
+@app.get("/")
+async def getDataJson():
+    csv_to_json('api/temp.csv', 'api/data.json')
+    f = open('api/data.json')
+    lines = f.readlines()
+    f.close()
+    return lines
+
 
 
 @app.get("/hello/{name}")
