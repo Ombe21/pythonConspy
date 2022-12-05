@@ -29,7 +29,6 @@ import csv
 import os
 import pyodbc
 
-
 server = 'conspy.cyqm4cgvogvg.eu-west-3.rds.amazonaws.com'
 database = 'ConsPy'
 username = 'ConsPy'
@@ -42,7 +41,7 @@ port = 5432
 response_API = requests.get('https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv')
 
 
-def csv_to_json(csvFilePath)->json:
+def csv_to_json(csvFilePath) -> json:
     jsonArray = []
     # read csv file
     with open(csvFilePath) as csvf:
@@ -59,11 +58,10 @@ def csv_to_json(csvFilePath)->json:
     return json.loads(jsonString)
 
 
-
 print(response_API.status_code)
 data = response_API.text
 
-f = open('temp.csv','w')
+f = open('temp.csv', 'w')
 f.write(data)
 f.close()
 data = csv_to_json('temp.csv')
@@ -80,6 +78,7 @@ async def root():
 @app.get("/hello/{name}")
 async def say_hello(name: str):
     return {"message": f"Hello {name}"}
+
 
 if __name__ == "__main__":
     uvicorn.run(app, host="localhost", port=8000)
