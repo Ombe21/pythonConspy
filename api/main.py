@@ -73,12 +73,12 @@ def csv_to_json(csvFilePath):
 print(response_API.status_code)
 data = response_API.text
 
-f = open('api/temp.csv', 'a')
+f = open('temp.csv', 'a')
 
 # f.write(data)  #this create the database
 f.close()
 
-data = csv_to_json('api/temp.csv', 'api/temp.json')
+data = csv_to_json('temp.csv', 'temp.json')
 
 # print(data['wind_cons_change_pct'])
 
@@ -108,7 +108,7 @@ async def getDataJson():
 
 @app.get("/hello/{name}")
 async def say_hello(name: str):
-    return {"message": f"Hello {name}"}
+    return {"message": f"Conspy Energy"}
 
 
 if __name__ == "__main__":

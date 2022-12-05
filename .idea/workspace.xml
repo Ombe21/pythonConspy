@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b845bb8-0838-4daa-8fbf-80969bbcba18" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/moz-todo-svelte/src/routes/Admin.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moz-todo-svelte/src/routes/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/rollup.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/src/routes/Home.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/temp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temgsp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonConspy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonConspy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/temp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/api/temp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/src/routes/Home.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/src/routes/Home.svelte" afterDir="false" />
     </list>
-    <list id="7ec7ca11-2f87-4510-9ce0-ec3027df1cbd" name="Changes by alexis" comment="">
-      <change afterPath="$PROJECT_DIR$/moz-todo-svelte/src/admin/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moz-todo-svelte/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/moz-todo-svelte/src/routes/Home.svelte" afterDir="false" />
-    </list>
+    <list id="7ec7ca11-2f87-4510-9ce0-ec3027df1cbd" name="Changes by alexis" comment="" />
     <list id="5a6ca35b-89db-4785-b15b-6db6daee2559" name="Changes by mxdel" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/back" />
+    <option name="OPTIONS">
+      <set>
+        <option value="SQUASH" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -52,30 +42,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/api/main.py">
-      <ranges>
-        <range start1="3" end1="3" start2="3" end2="4" changelist="9b845bb8-0838-4daa-8fbf-80969bbcba18" />
-        <range start1="55" end1="56" start2="56" end2="57" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
-        <range start1="60" end1="61" start2="61" end2="62" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
-        <range start1="72" end1="72" start2="73" end2="74" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
-        <range start1="73" end1="74" start2="75" end2="75" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
-        <range start1="76" end1="76" start2="77" end2="78" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
-        <range start1="78" end1="81" start2="80" end2="88" changelist="5a6ca35b-89db-4785-b15b-6db6daee2559" />
-      </ranges>
-    </file>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/moz-todo-svelte/src/routes/Home.svelte">
-      <ranges>
-        <range start1="8" end1="8" start2="8" end2="51" changelist="9b845bb8-0838-4daa-8fbf-80969bbcba18" />
-        <range start1="12" end1="12" start2="55" end2="56" changelist="9b845bb8-0838-4daa-8fbf-80969bbcba18" />
-        <range start1="13" end1="13" start2="57" end2="102" changelist="9b845bb8-0838-4daa-8fbf-80969bbcba18" />
-        <range start1="29" end1="29" start2="118" end2="119" changelist="7ec7ca11-2f87-4510-9ce0-ec3027df1cbd" />
-        <range start1="34" end1="34" start2="124" end2="171" changelist="7ec7ca11-2f87-4510-9ce0-ec3027df1cbd" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -119,10 +85,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\cmtp2\Documents\pythonConspy\venv\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.10 (pythonConspy)" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -187,16 +152,38 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add parametrages pour lancer" />
-    <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -219,9 +206,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonConspy$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1668783514985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/pythonConspy$main.coverage" NAME="main Coverage Results" MODIFIED="1670250035358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/pythonConspy$main.coverage" NAME="main Coverage Results" MODIFIED="1670252621244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/pythonConspy$pythonConspy.coverage" NAME="pythonConspy Coverage Results" MODIFIED="1668778651697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/pythonConspy$pythonConspy.coverage" NAME="pythonConspy Coverage Results" MODIFIED="1668778651697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/pythonConspy$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1670249689701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

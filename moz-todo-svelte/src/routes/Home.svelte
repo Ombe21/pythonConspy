@@ -52,8 +52,7 @@
 </script>
 
 <main>
-	<h1>{name}!</h1>
-	<a href="/admin" use:link>Administrateur</a>
+	<h1>{name}</h1>
 </main>
 	<!--
 	<p>
