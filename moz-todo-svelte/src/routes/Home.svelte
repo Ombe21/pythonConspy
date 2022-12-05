@@ -116,9 +116,57 @@
 		font-weight: 100;
 	}
 
+	/*
 	@media (min-width: 640px) {
 		main {
 			max-width: none;
 		}
 	}
+
+	h2 {
+		text-align: center;
+	}
+
+	.chart {
+		width: 100%;
+		max-width: 500px;
+		margin: 0 auto;
+	}
+
+	svg {
+		position: relative;
+		width: 100%;
+		height: 200px;
+	}
+
+	.tick {
+		font-family: Helvetica, Arial;
+		font-size: .725em;
+		font-weight: 200;
+	}
+
+	.tick line {
+		stroke: #e2e2e2;
+		stroke-dasharray: 2;
+	}
+
+	.tick text {
+		fill: #ccc;
+		text-anchor: start;
+	}
+
+	.tick.tick-0 line {
+		stroke-dasharray: 0;
+	}
+
+	.x-axis .tick text {
+		text-anchor: middle;
+	}
+
+	.bars rect {
+		fill: #a11;
+		stroke: none;
+		opacity: 0.65;
+	}
+	 */
 </style>
